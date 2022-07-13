@@ -1,0 +1,2 @@
+- Types of architecture
+	- [[Information Architecture]]
