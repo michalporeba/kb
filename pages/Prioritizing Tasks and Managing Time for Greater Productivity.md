@@ -1,0 +1,6 @@
+- About
+	- A [[Video Course]] on [[Pluralsight]]
+	- Author: [[Jason Alba]]
+	- Tags: [[Productivity]]
+	- [[TODO]]: Take notes
+	-

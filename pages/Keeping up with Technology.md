@@ -1,0 +1,5 @@
+- About
+	- A [[Video Course]] on [[Pluralsight]]
+	- Author: [[Dan Appleman]]
+	- Tags: [[Productivity]]
+-

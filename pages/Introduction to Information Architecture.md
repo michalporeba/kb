@@ -1,0 +1,6 @@
+- About
+	- A [[Video Course]] on [[Pluralsight]]
+	- Author: [[Abby Covert]]
+	- Tags: [[Data]] [[Software]]
+	- [[TODO]]: Take notes
+-

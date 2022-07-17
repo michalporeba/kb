@@ -1,0 +1,8 @@
+- About
+	- A [[book]] published by [[Manning]] in [[2014]]
+	- Authors: [[David Wood]], [[Marsha Zaidman]] [[Luke Ruth]]
+	- Foreword: [[Tim Berners-Lee]]
+	- Tags: [[Data]] [[Integrations]]
+	- Topics: [[Linked Data]]
+	-
+-
