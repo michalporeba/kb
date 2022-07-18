@@ -1,15 +1,33 @@
-[{:block/name "a",
+[{:block/name "2014",
+  :block/created-at 1658086848303,
+  :block/updated-at 1658086848303}
+ {:block/name "2021",
+  :block/created-at 1658128893974,
+  :block/updated-at 1658128893974}
+ {:block/name "2022",
+  :block/created-at 1658138140815,
+  :block/updated-at 1658138140815}
+ {:block/name "a",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
  {:block/name "abby covert",
-  :block/created-at 1657737143747,
-  :block/updated-at 1657737143747}
+  :block/created-at 1658087209919,
+  :block/updated-at 1658087209919}
+ {:block/name "agile",
+  :block/created-at 1658128800589,
+  :block/updated-at 1658128800589}
  {:block/name "architecture",
   :block/created-at 1657737025349,
   :block/updated-at 1657737025349}
  {:block/name "b",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
+ {:block/name "book",
+  :block/created-at 1658086822939,
+  :block/updated-at 1658086822939}
+ {:block/name "building evolutionary architecture",
+  :block/created-at 1658129306470,
+  :block/updated-at 1658129333045}
  {:block/name "c",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
@@ -19,63 +37,181 @@
  {:block/name "civil service learning",
   :block/created-at 1657794702094,
   :block/updated-at 1657794702094}
+ {:block/name "clean architecture",
+  :block/created-at 1658129356244,
+  :block/updated-at 1658129438417}
+ {:block/name "clean architecture_ patterns, practices and principles",
+  :block/created-at 1658129507431,
+  :block/updated-at 1658129531609}
+ {:block/name "clean code",
+  :block/created-at 1658129565257,
+  :block/updated-at 1658129588435}
  {:block/name "contents",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
+ {:block/name "dan appleman",
+  :block/created-at 1658088192871,
+  :block/updated-at 1658088192871}
  {:block/name "data",
   :block/created-at 1657737169798,
   :block/updated-at 1657737169798}
+ {:block/name "david wood",
+  :block/created-at 1658086860003,
+  :block/updated-at 1658086865893}
  {:block/name "dit career framework",
   :block/created-at 1657794964441,
   :block/updated-at 1657794964441}
  {:block/name "doing",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
+ {:block/name "domain driven design",
+  :block/created-at 1658129561126,
+  :block/updated-at 1658129612567}
  {:block/name "done",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
+ {:block/name "edward curren",
+  :block/created-at 1658138146248,
+  :block/updated-at 1658138146248}
+ {:block/name "enterprise integration patterns",
+  :block/created-at 1658129397819,
+  :block/updated-at 1658129412258}
+ {:block/name "eric evans",
+  :block/created-at 1658129612566,
+  :block/updated-at 1658129612566}
  {:block/name "favorites",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
+ {:block/name "gregor hohpe",
+  :block/created-at 1658129412258,
+  :block/updated-at 1658129412258}
+ {:block/name "hypertext",
+  :block/created-at 1658088295791,
+  :block/updated-at 1658088295791}
+ {:block/name "icagile (icp-asd)_ evolving architecture and design",
+  :block/created-at 1658128659291,
+  :block/updated-at 1658129633987}
  {:block/name "in-progress",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
  {:block/name "information architecture",
   :block/created-at 1657737025348,
-  :block/updated-at 1657737025348}
+  :block/updated-at 1658086987634}
+ {:block/name "integrations",
+  :block/created-at 1658087098439,
+  :block/updated-at 1658087098439}
+ {:block/name "introduction to information architecture",
+  :block/created-at 1658087127768,
+  :block/updated-at 1658087254985}
  {:block/name "jason alba",
-  :block/created-at 1657737254764,
-  :block/updated-at 1657737254764}
+  :block/created-at 1658088119559,
+  :block/updated-at 1658088119559}
+ {:block/name "jim weaver",
+  :block/created-at 1658128789787,
+  :block/updated-at 1658128789787}
  {:block/name "jul 13th, 2022",
   :block/created-at 1657737025256,
-  :block/updated-at 1657737527786}
- {:block/name "jul 14th, 2022",
-  :block/created-at 1657755231481,
-  :block/updated-at 1657794964442}
+  :block/updated-at 1658088017985}
+ {:block/name "jul 15th, 2022",
+  :block/created-at 1658088139575,
+  :block/updated-at 1658088246062}
+ {:block/name "jul 17th, 2022",
+  :block/created-at 1658086662653,
+  :block/updated-at 1658159292576}
+ {:block/name "jul 18th, 2022",
+  :block/created-at 1658099477181,
+  :block/updated-at 1658159404611}
+ {:block/name "keeping up with technology",
+  :block/created-at 1658088167039,
+  :block/updated-at 1658088203461}
+ {:block/name "kent beck",
+  :block/created-at 1658129650598,
+  :block/updated-at 1658129650598}
+ {:block/name "key learning",
+  :block/created-at 1658159230912,
+  :block/updated-at 1658159230912}
  {:block/name "later",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
- {:block/name "multitasking",
-  :block/created-at 1657737489737,
-  :block/updated-at 1657737489737}
+ {:block/name "linked data",
+  :block/created-at 1658086768622,
+  :block/updated-at 1658087621567}
+ {:block/name "linked data_ structured data on the web",
+  :block/created-at 1658086705034,
+  :block/updated-at 1658087604770}
+ {:block/name "luke ruth",
+  :block/created-at 1658086863476,
+  :block/updated-at 1658086863476}
+ {:block/name "manning",
+  :block/created-at 1658086842177,
+  :block/updated-at 1658086842177}
+ {:block/name "marsha zaidman",
+  :block/created-at 1658086860002,
+  :block/updated-at 1658086860002}
+ {:block/name "martin fowler",
+  :block/created-at 1658129455477,
+  :block/updated-at 1658129455477}
+ {:block/name "matthew renze",
+  :block/created-at 1658129531608,
+  :block/updated-at 1658129531608}
+ {:block/name "new page_ 2021",
+  :block/created-at 1658128893690,
+  :block/updated-at 1658128893690}
  {:block/name "now",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
+ {:block/name "patterns of enterprise architecture",
+  :block/created-at 1658129351933,
+  :block/updated-at 1658129455477}
  {:block/name "pluralsight",
   :block/created-at 1657737123676,
   :block/updated-at 1657737123676}
+ {:block/name
+  "prioritizing tasks and managing time for greater productivity",
+  :block/created-at 1658087995632,
+  :block/updated-at 1658088119559}
  {:block/name "productivity",
-  :block/created-at 1657737291280,
-  :block/updated-at 1657737291280}
+  :block/created-at 1658088081349,
+  :block/updated-at 1658088081349}
+ {:block/name "programming",
+  :block/created-at 1658138170994,
+  :block/updated-at 1658138170994}
+ {:block/name "quote",
+  :block/created-at 1658087501348,
+  :block/updated-at 1658087501348}
+ {:block/name "reading list",
+  :block/created-at 1658159511621,
+  :block/updated-at 1658159845713}
  {:block/name "readme",
   :block/created-at 1657737025330,
   :block/updated-at 1657737025330}
+ {:block/name "robert c. martin",
+  :block/created-at 1658129438415,
+  :block/updated-at 1658129438415}
+ {:block/name "rust",
+  :block/created-at 1658138177417,
+  :block/updated-at 1658138177417}
+ {:block/name "rust fundamentals",
+  :block/created-at 1658138019267,
+  :block/updated-at 1658138177418}
  {:block/name "software",
-  :block/created-at 1657737169797,
-  :block/updated-at 1657737169797}
+  :block/created-at 1658087168552,
+  :block/updated-at 1658087168552}
+ {:block/name "test-driven development by example",
+  :block/created-at 1658129633986,
+  :block/updated-at 1658129650598}
+ {:block/name "tim berners-lee",
+  :block/created-at 1658086883803,
+  :block/updated-at 1658086883803}
  {:block/name "todo",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
+ {:block/name "topic",
+  :block/created-at 1658086982835,
+  :block/updated-at 1658087717757}
+ {:block/name "video course",
+  :block/created-at 1658087185835,
+  :block/updated-at 1658087185835}
  {:block/name "wait",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}

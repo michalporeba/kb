@@ -4,5 +4,3 @@
 	- Foreword: [[Tim Berners-Lee]]
 	- Tags: [[Data]] [[Integrations]]
 	- Topics: [[Linked Data]]
-	-
--

@@ -1,0 +1,9 @@
+- **TO SCAN**
+	- Sindice.com - Linked Data search engine
+	- http://www.w3.org/DesignIssues/LinkedData.html
+	- https://www.w3.org/DesignIssues/Architecture.html
+- **TO READ**
+- **TO RE-READ**
+- **READ RECENTLY**
+- **READ ONCE UPON A TIME**
+-

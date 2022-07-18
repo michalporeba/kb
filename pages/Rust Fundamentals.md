@@ -1,0 +1,4 @@
+- About
+	- A [[Video Course]] published on [[Pluralsight]] in [[2022]]
+	- Author: [[Edward Curren]]
+	- Tags: [[Software]] [[Programming]] [[Rust]]

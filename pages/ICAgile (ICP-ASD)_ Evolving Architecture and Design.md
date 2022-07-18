@@ -1,0 +1,14 @@
+- About
+	- A [[Video Course]] published on [[Pluralsight]] in [[2021]]
+	- Author: [[Jim Weaver]]
+	- Tags: [[Agile]] [[Architecture]]
+	- Recommends:
+		- [[Building Evolutionary Architecture]]
+		- [[Patterns of Enterprise Architecture]]
+		- [[Clean Architecture]]
+		- [[Enterprise Integration Patterns]]
+		- [[Clean Architecture: Patterns, Practices and Principles]]
+		- [[Domain Driven Design]]
+		- [[Clean Code]]
+		- [[Test-Driven Development by Example]]
+-
