@@ -121,6 +121,12 @@
  {:block/name "jul 18th, 2022",
   :block/created-at 1658099477181,
   :block/updated-at 1658159404611}
+ {:block/name "jul 19th, 2022",
+  :block/created-at 1658193621265,
+  :block/updated-at 1658255925991}
+ {:block/name "jul 21st, 2022",
+  :block/created-at 1658390063602,
+  :block/updated-at 1658390657730}
  {:block/name "keeping up with technology",
   :block/created-at 1658088167039,
   :block/updated-at 1658088203461}
@@ -133,6 +139,9 @@
  {:block/name "later",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
+ {:block/name "learning technology in the information age",
+  :block/created-at 1658390098236,
+  :block/updated-at 1658390844622}
  {:block/name "linked data",
   :block/created-at 1658086768622,
   :block/updated-at 1658087621567}
