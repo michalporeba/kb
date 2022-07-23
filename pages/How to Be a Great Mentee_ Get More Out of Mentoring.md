@@ -1,0 +1,7 @@
+- About
+	- A [[Video Course]] published on [[Pluralsight]] in [[2019]]
+	- Author: [[Jason Alba]]
+	- Topics: [[Mentoring]] [[Productivity]]
+- Summary
+	- A very interesting, short course on mentoring from the perspective of a mentee. Everything from discussing why one may need a mentor, through how to find the right person, how to get most of the relationship, how to help a new mentor be a better mentor and finally onto terminating the mentorship relationship either because it was successful and is no longer needed, or because it doesn't work.
+-
