@@ -1,3 +1,7 @@
 - About
 	- A [[Video Course]] published on [[Pluralsight]] in [[2021]]
-	- Author: [[Dan Appleman]]
+	- By [[Dan Appleman]]
+	- Listened to on [[Jul 21st, 2022]]
+	- Topics: [[Learning]] [[Career Planning]]
+- Summary
+	- The course looks at how the way we interact with information has changed and how the knowledge is not necessarily the king any more. Learning to memorise facts in times when the facts are readily available on google seems pointless. But it doesn't mean we should't learn or that people with long experience are not more valuable than those without it. To help understand this the author proposes to look at learning not as a single path, but four separate tracts: fundamentals, information, skills, innovation.
