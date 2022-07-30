@@ -1,12 +1,27 @@
-[{:block/name "2014",
+[{:block/name "1936",
+  :block/created-at 1659043745978,
+  :block/updated-at 1659130704574}
+ {:block/name "2014",
   :block/created-at 1658086848303,
-  :block/updated-at 1658086848303}
+  :block/updated-at 1659130804125}
+ {:block/name "2015",
+  :block/created-at 1659043368206,
+  :block/updated-at 1659130698128}
+ {:block/name "2019",
+  :block/created-at 1658573171164,
+  :block/updated-at 1659130722250}
+ {:block/name "2020",
+  :block/created-at 1659043116883,
+  :block/updated-at 1659130713284}
  {:block/name "2021",
   :block/created-at 1658128893974,
-  :block/updated-at 1658128893974}
+  :block/updated-at 1659130808077}
  {:block/name "2022",
   :block/created-at 1658138140815,
   :block/updated-at 1658138140815}
+ {:block/name "_noestimates",
+  :block/created-at 1659042348006,
+  :block/updated-at 1659043485365}
  {:block/name "a",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
@@ -34,6 +49,9 @@
  {:block/name "card",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
+ {:block/name "career planning",
+  :block/created-at 1658594139368,
+  :block/updated-at 1658594139368}
  {:block/name "civil service learning",
   :block/created-at 1657794702094,
   :block/updated-at 1657794702094}
@@ -46,18 +64,40 @@
  {:block/name "clean code",
   :block/created-at 1658129565257,
   :block/updated-at 1658129588435}
+ {:block/name "collaboration",
+  :block/created-at 1659043623661,
+  :block/updated-at 1659043623661}
+ {:block/name "communication",
+  :block/created-at 1659043631995,
+  :block/updated-at 1659043631995}
  {:block/name "contents",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
+ {:block/name "createspace independent publishing platform",
+  :block/created-at 1659043365907,
+  :block/updated-at 1659043365907}
+ {:block/name "cultivating effective relationships in virtual work",
+  :block/created-at 1659042224345,
+  :block/updated-at 1659043250580}
+ {:block/name "dale carnegie",
+  :block/created-at 1659043770428,
+  :block/updated-at 1659043770428}
  {:block/name "dan appleman",
   :block/created-at 1658088192871,
   :block/updated-at 1658088192871}
  {:block/name "data",
   :block/created-at 1657737169798,
   :block/updated-at 1657737169798}
+ {:block/name "data warehouses",
+  :block/created-at 1658608189663,
+  :block/updated-at 1658608189663}
  {:block/name "david wood",
   :block/created-at 1658086860003,
   :block/updated-at 1658086865893}
+ {:block/name
+  "digital body language_ how to build trust & connection no matter the distance",
+  :block/created-at 1659042833632,
+  :block/updated-at 1659043631996}
  {:block/name "dit career framework",
   :block/created-at 1657794964441,
   :block/updated-at 1657794964441}
@@ -79,12 +119,33 @@
  {:block/name "eric evans",
   :block/created-at 1658129612566,
   :block/updated-at 1658129612566}
+ {:block/name "erica dhawan",
+  :block/created-at 1659043613785,
+  :block/updated-at 1659043613785}
+ {:block/name "estimation",
+  :block/created-at 1659043409444,
+  :block/updated-at 1659043409444}
  {:block/name "favorites",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
+ {:block/name "gallery books",
+  :block/created-at 1659043733557,
+  :block/updated-at 1659043733557}
+ {:block/name "goodrelations",
+  :block/created-at 1658593443794,
+  :block/updated-at 1658593443794}
  {:block/name "gregor hohpe",
   :block/created-at 1658129412258,
   :block/updated-at 1658129412258}
+ {:block/name "how to be a great mentee_ get more out of mentoring",
+  :block/created-at 1658572942017,
+  :block/updated-at 1658593922002}
+ {:block/name "how to win friends and influence people",
+  :block/created-at 1659042400991,
+  :block/updated-at 1659043770428}
+ {:block/name "html5",
+  :block/created-at 1658593164021,
+  :block/updated-at 1658593164021}
  {:block/name "hypertext",
   :block/created-at 1658088295791,
   :block/updated-at 1658088295791}
@@ -109,6 +170,9 @@
  {:block/name "jim weaver",
   :block/created-at 1658128789787,
   :block/updated-at 1658128789787}
+ {:block/name "jo harder",
+  :block/created-at 1659043133591,
+  :block/updated-at 1659043133591}
  {:block/name "jul 13th, 2022",
   :block/created-at 1657737025256,
   :block/updated-at 1658088017985}
@@ -129,7 +193,19 @@
   :block/updated-at 1658390657730}
  {:block/name "jul 22nd, 2022",
   :block/created-at 1658447373644,
-  :block/updated-at 1658447373644}
+  :block/updated-at 1658573096008}
+ {:block/name "jul 23rd, 2022",
+  :block/created-at 1658572689490,
+  :block/updated-at 1658608306662}
+ {:block/name "jul 28th, 2022",
+  :block/created-at 1659042037878,
+  :block/updated-at 1659042856607}
+ {:block/name "jul 29th, 2022",
+  :block/created-at 1659058499360,
+  :block/updated-at 1659058499360}
+ {:block/name "jul 30th, 2022",
+  :block/created-at 1659138133324,
+  :block/updated-at 1659138133324}
  {:block/name "keeping up with technology",
   :block/created-at 1658088167039,
   :block/updated-at 1658088203461}
@@ -142,15 +218,18 @@
  {:block/name "later",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
+ {:block/name "learning",
+  :block/created-at 1658594131335,
+  :block/updated-at 1658594131335}
  {:block/name "learning technology in the information age",
   :block/created-at 1658390098236,
-  :block/updated-at 1658390844622}
+  :block/updated-at 1658594139370}
  {:block/name "linked data",
   :block/created-at 1658086768622,
   :block/updated-at 1658087621567}
  {:block/name "linked data_ structured data on the web",
   :block/created-at 1658086705034,
-  :block/updated-at 1658087604770}
+  :block/updated-at 1658608503183}
  {:block/name "luke ruth",
   :block/created-at 1658086863476,
   :block/updated-at 1658086863476}
@@ -166,9 +245,18 @@
  {:block/name "matthew renze",
   :block/created-at 1658129531608,
   :block/updated-at 1658129531608}
+ {:block/name "mentoring",
+  :block/created-at 1658573195564,
+  :block/updated-at 1658573195564}
  {:block/name "new page_ 2021",
   :block/created-at 1658128893690,
   :block/updated-at 1658128893690}
+ {:block/name "noestimate",
+  :block/created-at 1659043389165,
+  :block/updated-at 1659043389165}
+ {:block/name "nosql",
+  :block/created-at 1658608295964,
+  :block/updated-at 1658608295964}
  {:block/name "now",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
@@ -188,15 +276,30 @@
  {:block/name "programming",
   :block/created-at 1658138170994,
   :block/updated-at 1658138170994}
+ {:block/name "project management",
+  :block/created-at 1659043449157,
+  :block/updated-at 1659043449157}
  {:block/name "quote",
   :block/created-at 1658087501348,
   :block/updated-at 1658087501348}
+ {:block/name "rdf",
+  :block/created-at 1658608091896,
+  :block/updated-at 1658608091896}
+ {:block/name "rdfa",
+  :block/created-at 1658593160992,
+  :block/updated-at 1658593160992}
+ {:block/name "rdfa 1.1 light",
+  :block/created-at 1658593751830,
+  :block/updated-at 1658593751830}
  {:block/name "reading list",
   :block/created-at 1658159511621,
   :block/updated-at 1658159845713}
  {:block/name "readme",
   :block/created-at 1657737025330,
   :block/updated-at 1657737025330}
+ {:block/name "remote work",
+  :block/created-at 1659043177677,
+  :block/updated-at 1659043177677}
  {:block/name "robert c. martin",
   :block/created-at 1658129438415,
   :block/updated-at 1658129438415}
@@ -206,9 +309,21 @@
  {:block/name "rust fundamentals",
   :block/created-at 1658138019267,
   :block/updated-at 1658138177418}
+ {:block/name "schema.org",
+  :block/created-at 1658593312618,
+  :block/updated-at 1658593312618}
  {:block/name "software",
   :block/created-at 1658087168552,
   :block/updated-at 1658087168552}
+ {:block/name "sparql",
+  :block/created-at 1658588821462,
+  :block/updated-at 1658588821462}
+ {:block/name "st. martin's publishing group",
+  :block/created-at 1659043597118,
+  :block/updated-at 1659043597118}
+ {:block/name "teamwork",
+  :block/created-at 1659043151461,
+  :block/updated-at 1659043151461}
  {:block/name "test-driven development by example",
   :block/created-at 1658129633986,
   :block/updated-at 1658129650598}
@@ -221,6 +336,9 @@
  {:block/name "topic",
   :block/created-at 1658086982835,
   :block/updated-at 1658087717757}
+ {:block/name "vasco duarte",
+  :block/created-at 1659043374323,
+  :block/updated-at 1659043374323}
  {:block/name "video course",
   :block/created-at 1658087185835,
   :block/updated-at 1658087185835}

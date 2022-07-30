@@ -1,0 +1,8 @@
+- About
+	- A [[Video Course]] published on [[Pluralsight]] in [[2019]]
+	- By [[Ami Levin]]
+	- Topic [[Postgres]] [[SQL]]
+- Summary
+	- The course covers ANSI and Postgres dialect of [[SQL]]. Topics covered include types of SQL languages, isolation and transactions, DDL, DQC, DML statements and using TCL. As an additional bonus it covers briefly ANSI standard description of concurrency phenomenons.
+- Notes
+	- The course is based on PostgreSQL 11

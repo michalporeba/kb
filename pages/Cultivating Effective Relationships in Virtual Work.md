@@ -1,0 +1,6 @@
+- About
+	- A [[Video Course]] published on [[Pluralsight]] in [[2020]]
+	- By [[Jo Harder]]
+	- Topics [[Teamwork]] [[Remote Work]]
+- Summary
+	- A short course on challenges of remote work, with distinctly American perspective. Still, many good end relevant points, especially about the need to replace the non-verbal communication in remote setting.

@@ -1,0 +1,5 @@
+- About
+	- A [[Book]] published by [[CreateSpace Independent Publishing Platform]] in [[2015]]
+	- By [[Vasco Duarte]]
+	- Topics: [[NoEstimate]] [[Agile]] [[Productivity]] [[Estimation]] [[Project Management]]
+	- Headline: How to Measure Project Progress Without Estimating

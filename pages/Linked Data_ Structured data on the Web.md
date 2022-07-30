@@ -4,3 +4,10 @@
 	- Foreword: [[Tim Berners-Lee]]
 	- Tags: [[Data]] [[Integrations]]
 	- Topics: [[Linked Data]]
+- Summary
+	- A very good book describing the basics of [[Linked Data]] and the [[RDF]] data model together with examples how triple store databases and [[SPARQL]] can change the way we work with data in the world where data warehousing is not necessary.
+-
+-
+-
+-
+-
