@@ -7,6 +7,9 @@
  {:block/name "2015",
   :block/created-at 1659043368206,
   :block/updated-at 1659130698128}
+ {:block/name "2018",
+  :block/created-at 1659255280333,
+  :block/updated-at 1659255280333}
  {:block/name "2019",
   :block/created-at 1658573171164,
   :block/updated-at 1659130722250}
@@ -31,6 +34,12 @@
  {:block/name "agile",
   :block/created-at 1658128800589,
   :block/updated-at 1658128800589}
+ {:block/name "ami levin",
+  :block/created-at 1659187977475,
+  :block/updated-at 1659187977475}
+ {:block/name "ansi sql-92",
+  :block/created-at 1659187948137,
+  :block/updated-at 1659187948137}
  {:block/name "architecture",
   :block/created-at 1657737025349,
   :block/updated-at 1657737025349}
@@ -67,18 +76,27 @@
  {:block/name "collaboration",
   :block/created-at 1659043623661,
   :block/updated-at 1659043623661}
+ {:block/name "combining and filtering data with postgresql 9",
+  :block/created-at 1659203880628,
+  :block/updated-at 1659204617362}
  {:block/name "communication",
   :block/created-at 1659043631995,
   :block/updated-at 1659043631995}
  {:block/name "contents",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
+ {:block/name "cpd",
+  :block/created-at 1659255302193,
+  :block/updated-at 1659255302193}
  {:block/name "createspace independent publishing platform",
   :block/created-at 1659043365907,
   :block/updated-at 1659043365907}
  {:block/name "cultivating effective relationships in virtual work",
   :block/created-at 1659042224345,
   :block/updated-at 1659043250580}
+ {:block/name "culture of learning_ executive brief",
+  :block/created-at 1659255095316,
+  :block/updated-at 1659255307137}
  {:block/name "dale carnegie",
   :block/created-at 1659043770428,
   :block/updated-at 1659043770428}
@@ -167,6 +185,9 @@
  {:block/name "jason alba",
   :block/created-at 1658088119559,
   :block/updated-at 1658088119559}
+ {:block/name "jason browning",
+  :block/created-at 1659204303528,
+  :block/updated-at 1659204303528}
  {:block/name "jim weaver",
   :block/created-at 1658128789787,
   :block/updated-at 1658128789787}
@@ -205,7 +226,10 @@
   :block/updated-at 1659058499360}
  {:block/name "jul 30th, 2022",
   :block/created-at 1659138133324,
-  :block/updated-at 1659138133324}
+  :block/updated-at 1659204859744}
+ {:block/name "jul 31st, 2022",
+  :block/created-at 1659231436257,
+  :block/updated-at 1659255466987}
  {:block/name "keeping up with technology",
   :block/created-at 1658088167039,
   :block/updated-at 1658088203461}
@@ -251,6 +275,9 @@
  {:block/name "new page_ 2021",
   :block/created-at 1658128893690,
   :block/updated-at 1658128893690}
+ {:block/name "new page_ ja",
+  :block/created-at 1659204710262,
+  :block/updated-at 1659204710262}
  {:block/name "noestimate",
   :block/created-at 1659043389165,
   :block/updated-at 1659043389165}
@@ -266,6 +293,15 @@
  {:block/name "pluralsight",
   :block/created-at 1657737123676,
   :block/updated-at 1657737123676}
+ {:block/name "postgres",
+  :block/created-at 1659187985702,
+  :block/updated-at 1659193855134}
+ {:block/name "postgresql 9",
+  :block/created-at 1659204349126,
+  :block/updated-at 1659204349126}
+ {:block/name "postgresql data manipulation playbook",
+  :block/created-at 1659187547298,
+  :block/updated-at 1659191501379}
  {:block/name
   "prioritizing tasks and managing time for greater productivity",
   :block/created-at 1658087995632,
@@ -279,6 +315,9 @@
  {:block/name "project management",
   :block/created-at 1659043449157,
   :block/updated-at 1659043449157}
+ {:block/name "querying data from postgresql",
+  :block/created-at 1659204674741,
+  :block/updated-at 1659204728927}
  {:block/name "quote",
   :block/created-at 1658087501348,
   :block/updated-at 1658087501348}
@@ -312,12 +351,18 @@
  {:block/name "schema.org",
   :block/created-at 1658593312618,
   :block/updated-at 1658593312618}
+ {:block/name "serialisation anomalies",
+  :block/created-at 1659187936261,
+  :block/updated-at 1659187936261}
  {:block/name "software",
   :block/created-at 1658087168552,
   :block/updated-at 1658087168552}
  {:block/name "sparql",
   :block/created-at 1658588821462,
   :block/updated-at 1658588821462}
+ {:block/name "sql",
+  :block/created-at 1659187985701,
+  :block/updated-at 1659187985701}
  {:block/name "st. martin's publishing group",
   :block/created-at 1659043597118,
   :block/updated-at 1659043597118}

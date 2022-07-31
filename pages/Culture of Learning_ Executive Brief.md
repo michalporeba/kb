@@ -1,0 +1,4 @@
+- About
+	- A [[Video Course]] published on [[Pluralsight]] in [[2018]]
+	- By [[Dan Appleman]]
+	- Topics [[Learning]] [[CPD]] [[Productivity]]
