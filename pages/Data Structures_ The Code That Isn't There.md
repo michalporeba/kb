@@ -1,0 +1,6 @@
+- About
+	- A [[Conference Talk]] presented on [[Strange Loop]] in [[2012]]
+	- By [[Scott Vokes]]
+	- https://www.infoq.com/presentations/Data-Structures/
+	- Topics: [[Data Structures]]
+	-

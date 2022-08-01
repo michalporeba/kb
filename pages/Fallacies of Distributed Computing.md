@@ -1,0 +1,10 @@
+- The fallacies is a list of statements assumed to be true, but which are not true in a distributed system. Those where first assembled at Sun Microsystems by [[Peter Deutch]], [[Bill Joy]], [[Tom Lyon]], [[James Gosling]]
+- Fallacies
+	- The network is reliable
+	- Latency is zero
+	- Bandwidth is infinite
+	- The network is secure
+	- Topology doesn't change
+	- There is one administrator
+	- Transport cost is zero
+	- The network is homogenous

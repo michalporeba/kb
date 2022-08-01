@@ -1,0 +1,13 @@
+- **TO SCAN**
+	- Sindice.com - Linked Data search engine
+	- http://www.w3.org/DesignIssues/LinkedData.html
+	- https://www.w3.org/DesignIssues/Architecture.html
+	- Immutability Changes Everything by Pat Helland
+	- Efficient Algorithms for Sorting and Synchronisation by [[Andrew Tridgell]]
+- **TO LEARN**
+	- [[CQRS in Practice]]
+	- [[Versioning and Evolving Microservices in ASP.Net]]
+- **TO RE-READ / RE-LEARN**
+- **RECENT**
+- **ONCE UPON A TIME**
+-

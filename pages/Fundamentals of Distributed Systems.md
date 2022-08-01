@@ -1,0 +1,5 @@
+- About
+	- A [[Video Course]] published on [[Plularsight]] in [[2021]]
+	- By [[Michael L. Perry]]
+	- Topics: [[Distributed Computing]] [[Software Architecture]]
+	-
