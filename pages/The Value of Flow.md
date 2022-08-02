@@ -1,0 +1,5 @@
+- About
+	- A [[Conference Talk]] presented on [[Agile London]] in [[2017]]
+	- By [[Dan North]]
+	- Topics: [[Agile]] [[Productivity]]
+-

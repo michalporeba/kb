@@ -1,15 +1,24 @@
 [{:block/name "1936",
   :block/created-at 1659043745978,
   :block/updated-at 1659130704574}
+ {:block/name "1987",
+  :block/created-at 1659460123761,
+  :block/updated-at 1659460123761}
  {:block/name "2012",
   :block/created-at 1659338256018,
   :block/updated-at 1659338256018}
+ {:block/name "2013",
+  :block/created-at 1659460112891,
+  :block/updated-at 1659460112891}
  {:block/name "2014",
   :block/created-at 1658086848303,
   :block/updated-at 1659130804125}
  {:block/name "2015",
   :block/created-at 1659043368206,
   :block/updated-at 1659130698128}
+ {:block/name "2017",
+  :block/created-at 1659458919697,
+  :block/updated-at 1659458919697}
  {:block/name "2018",
   :block/created-at 1659255280333,
   :block/updated-at 1659255280333}
@@ -34,12 +43,27 @@
  {:block/name "abby covert",
   :block/created-at 1658087209919,
   :block/updated-at 1658087209919}
+ {:block/name "addison-wesley",
+  :block/created-at 1659460076326,
+  :block/updated-at 1659460076326}
  {:block/name "additive structures",
   :block/created-at 1659337697423,
   :block/updated-at 1659337697423}
  {:block/name "agile",
   :block/created-at 1658128800589,
   :block/updated-at 1658128800589}
+ {:block/name "agile london",
+  :block/created-at 1659458914263,
+  :block/updated-at 1659458914263}
+ {:block/name "alberto brandolini",
+  :block/created-at 1659422447991,
+  :block/updated-at 1659422682365}
+ {:block/name "amazon sqs",
+  :block/created-at 1659423478553,
+  :block/updated-at 1659423478553}
+ {:block/name "amgp",
+  :block/created-at 1659423467290,
+  :block/updated-at 1659423467290}
  {:block/name "ami levin",
   :block/created-at 1659187977475,
   :block/updated-at 1659187977475}
@@ -49,12 +73,24 @@
  {:block/name "ansi sql-92",
   :block/created-at 1659187948137,
   :block/updated-at 1659187948137}
+ {:block/name "apache kafka",
+  :block/created-at 1659423471709,
+  :block/updated-at 1659423471709}
+ {:block/name "api",
+  :block/created-at 1659424075361,
+  :block/updated-at 1659424075361}
  {:block/name "architecture",
   :block/created-at 1657737025349,
   :block/updated-at 1657737025349}
+ {:block/name "asynchronous protocol",
+  :block/created-at 1659423425554,
+  :block/updated-at 1659423425554}
  {:block/name "aug 1st, 2022",
   :block/created-at 1659309245050,
-  :block/updated-at 1659340486847}
+  :block/updated-at 1659385200559}
+ {:block/name "aug 2nd, 2022",
+  :block/created-at 1659394913231,
+  :block/updated-at 1659461203740}
  {:block/name "b",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
@@ -64,12 +100,18 @@
  {:block/name "book",
   :block/created-at 1658086822939,
   :block/updated-at 1658086822939}
+ {:block/name "bounded context",
+  :block/created-at 1659422980889,
+  :block/updated-at 1659422980889}
  {:block/name "building evolutionary architecture",
   :block/created-at 1658129306470,
   :block/updated-at 1658129333045}
  {:block/name "c",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
+ {:block/name "c_",
+  :block/created-at 1659423735205,
+  :block/updated-at 1659423735205}
  {:block/name "card",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
@@ -130,6 +172,9 @@
  {:block/name "dan appleman",
   :block/created-at 1658088192871,
   :block/updated-at 1658088192871}
+ {:block/name "dan north",
+  :block/created-at 1659458926388,
+  :block/updated-at 1659459046088}
  {:block/name "data",
   :block/created-at 1657737169798,
   :block/updated-at 1657737169798}
@@ -145,6 +190,9 @@
  {:block/name "david wood",
   :block/created-at 1658086860003,
   :block/updated-at 1658086865893}
+ {:block/name "deep work",
+  :block/created-at 1659460026778,
+  :block/updated-at 1659460026778}
  {:block/name "difference list",
   :block/created-at 1659339150142,
   :block/updated-at 1659339150142}
@@ -167,24 +215,36 @@
  {:block/name "domain driven design",
   :block/created-at 1658129561126,
   :block/updated-at 1658129612567}
+ {:block/name "domain model",
+  :block/created-at 1659422966906,
+  :block/updated-at 1659422966906}
+ {:block/name "domain-driven design",
+  :block/created-at 1659422807842,
+  :block/updated-at 1659422807842}
  {:block/name "done",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
  {:block/name "edward curren",
   :block/created-at 1658138146248,
   :block/updated-at 1658138146248}
+ {:block/name "eliyahu m. goldratt",
+  :block/created-at 1659461261508,
+  :block/updated-at 1659461261508}
  {:block/name "enterprise integration patterns",
   :block/created-at 1658129397819,
   :block/updated-at 1658129412258}
  {:block/name "eric evans",
   :block/created-at 1658129612566,
-  :block/updated-at 1658129612566}
+  :block/updated-at 1659422737863}
  {:block/name "erica dhawan",
   :block/created-at 1659043613785,
   :block/updated-at 1659043613785}
  {:block/name "estimation",
   :block/created-at 1659043409444,
   :block/updated-at 1659043409444}
+ {:block/name "event storming",
+  :block/created-at 1659422905833,
+  :block/updated-at 1659422905833}
  {:block/name "fallacies of distributed computing",
   :block/created-at 1659303541204,
   :block/updated-at 1659303679161}
@@ -193,7 +253,7 @@
   :block/updated-at 1657737032303}
  {:block/name "fundamentals of distributed systems",
   :block/created-at 1659303309040,
-  :block/updated-at 1659303511037}
+  :block/updated-at 1659423806496}
  {:block/name "gallery books",
   :block/created-at 1659043733557,
   :block/updated-at 1659043733557}
@@ -206,9 +266,18 @@
  {:block/name "gregor hohpe",
   :block/created-at 1658129412258,
   :block/updated-at 1658129412258}
+ {:block/name "grpc",
+  :block/created-at 1659423458019,
+  :block/updated-at 1659423458019}
  {:block/name "haskell",
   :block/created-at 1659339228743,
   :block/updated-at 1659339228743}
+ {:block/name "historical model",
+  :block/created-at 1659423023748,
+  :block/updated-at 1659423023748}
+ {:block/name "historical modelling",
+  :block/created-at 1659422784481,
+  :block/updated-at 1659422784481}
  {:block/name "how to be a great mentee_ get more out of mentoring",
   :block/created-at 1658572942017,
   :block/updated-at 1658593922002}
@@ -218,9 +287,15 @@
  {:block/name "html5",
   :block/created-at 1658593164021,
   :block/updated-at 1658593164021}
+ {:block/name "http",
+  :block/created-at 1659423450735,
+  :block/updated-at 1659423450735}
  {:block/name "hypertext",
   :block/created-at 1658088295791,
   :block/updated-at 1658088295791}
+ {:block/name "ibm mq",
+  :block/created-at 1659423474308,
+  :block/updated-at 1659423474308}
  {:block/name "icagile (icp-asd)_ evolving architecture and design",
   :block/created-at 1658128659291,
   :block/updated-at 1658129633987}
@@ -251,6 +326,9 @@
  {:block/name "jo harder",
   :block/created-at 1659043133591,
   :block/updated-at 1659043133591}
+ {:block/name "john little",
+  :block/created-at 1659460384121,
+  :block/updated-at 1659460384121}
  {:block/name "jul 13th, 2022",
   :block/created-at 1657737025256,
   :block/updated-at 1658088017985}
@@ -338,18 +416,54 @@
  {:block/name "md5",
   :block/created-at 1659339505860,
   :block/updated-at 1659339505860}
+ {:block/name "melvin e. conway",
+  :block/created-at 1659422557572,
+  :block/updated-at 1659422693046}
  {:block/name "mentoring",
   :block/created-at 1658573195564,
   :block/updated-at 1658573195564}
  {:block/name "michael l. perry",
   :block/created-at 1659303494989,
   :block/updated-at 1659303494989}
+ {:block/name "mvc",
+  :block/created-at 1659423742395,
+  :block/updated-at 1659423742395}
+ {:block/name "new page_ 1987",
+  :block/created-at 1659460122474,
+  :block/updated-at 1659460122474}
  {:block/name "new page_ 2021",
   :block/created-at 1658128893690,
   :block/updated-at 1658128893690}
+ {:block/name "new page_ http",
+  :block/created-at 1659423448888,
+  :block/updated-at 1659423448888}
  {:block/name "new page_ ja",
   :block/created-at 1659204710262,
   :block/updated-at 1659204710262}
+ {:block/name "new page_ peopleware_ productive projects and teams",
+  :block/created-at 1659460024832,
+  :block/updated-at 1659460024832}
+ {:block/name "new page_ the goal_ a process of ongoing impro",
+  :block/created-at 1659461201438,
+  :block/updated-at 1659461201438}
+ {:block/name "new page_ the goal_ a process of ongoing improv",
+  :block/created-at 1659461201494,
+  :block/updated-at 1659461201494}
+ {:block/name "new page_ the goal_ a process of ongoing improve",
+  :block/created-at 1659461201602,
+  :block/updated-at 1659461201602}
+ {:block/name "new page_ the goal_ a process of ongoing improvem",
+  :block/created-at 1659461201734,
+  :block/updated-at 1659461201734}
+ {:block/name "new page_ the goal_ a process of ongoing improveme",
+  :block/created-at 1659461201779,
+  :block/updated-at 1659461201779}
+ {:block/name "new page_ the goal_ a process of ongoing improvemen",
+  :block/created-at 1659461201942,
+  :block/updated-at 1659461201942}
+ {:block/name "new page_ the goal_ a process of ongoing improvement",
+  :block/created-at 1659461202032,
+  :block/updated-at 1659461202032}
  {:block/name "new page_ vladimir",
   :block/created-at 1659336310781,
   :block/updated-at 1659336310781}
@@ -386,9 +500,18 @@
  {:block/name "now",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
+ {:block/name "parkinson's law",
+  :block/created-at 1659460733160,
+  :block/updated-at 1659460733160}
  {:block/name "patterns of enterprise architecture",
   :block/created-at 1658129351933,
   :block/updated-at 1658129455477}
+ {:block/name "peopleware_ productive projects and teams",
+  :block/created-at 1659460026779,
+  :block/updated-at 1659460142716}
+ {:block/name "person",
+  :block/created-at 1659422682364,
+  :block/updated-at 1659422682364}
  {:block/name "peter deutch",
   :block/created-at 1659303595622,
   :block/updated-at 1659303595622}
@@ -444,15 +567,27 @@
  {:block/name "readme",
   :block/created-at 1657737025330,
   :block/updated-at 1657737025330}
+ {:block/name "remote procedure call",
+  :block/created-at 1659424117197,
+  :block/updated-at 1659424270818}
  {:block/name "remote work",
   :block/created-at 1659043177677,
   :block/updated-at 1659043177677}
+ {:block/name "rest",
+  :block/created-at 1659423460308,
+  :block/updated-at 1659423460308}
+ {:block/name "reverse conway manoeuvre",
+  :block/created-at 1659423143160,
+  :block/updated-at 1659423143160}
  {:block/name "robert c. martin",
   :block/created-at 1658129438415,
   :block/updated-at 1658129438415}
  {:block/name "rolling hash",
   :block/created-at 1659339482050,
   :block/updated-at 1659339482050}
+ {:block/name "rpc",
+  :block/created-at 1659424128069,
+  :block/updated-at 1659424128069}
  {:block/name "rsync",
   :block/created-at 1659339603132,
   :block/updated-at 1659339603132}
@@ -480,6 +615,9 @@
  {:block/name "skiplist",
   :block/created-at 1659338729348,
   :block/updated-at 1659338729348}
+ {:block/name "soap",
+  :block/created-at 1659423454868,
+  :block/updated-at 1659423454868}
  {:block/name "software",
   :block/created-at 1658087168552,
   :block/updated-at 1658087168552}
@@ -498,18 +636,45 @@
  {:block/name "strange loop",
   :block/created-at 1659338254534,
   :block/updated-at 1659338254534}
+ {:block/name "synchronous protocol",
+  :block/created-at 1659423409621,
+  :block/updated-at 1659423409621}
  {:block/name "teamwork",
   :block/created-at 1659043151461,
   :block/updated-at 1659043151461}
+ {:block/name "temporal coupling",
+  :block/created-at 1659423252420,
+  :block/updated-at 1659423252420}
  {:block/name "test-driven development by example",
   :block/created-at 1658129633986,
   :block/updated-at 1658129650598}
+ {:block/name "the art of immutable architecture",
+  :block/created-at 1659422771277,
+  :block/updated-at 1659422771277}
+ {:block/name "the goal_ a process of ongoing improvement",
+  :block/created-at 1659461203739,
+  :block/updated-at 1659461261509}
+ {:block/name "the phoenix project",
+  :block/created-at 1659459725128,
+  :block/updated-at 1659459725128}
+ {:block/name "the value of flow",
+  :block/created-at 1659458896392,
+  :block/updated-at 1659458936773}
+ {:block/name "theory of constraints",
+  :block/created-at 1659460928893,
+  :block/updated-at 1659460928893}
  {:block/name "tim berners-lee",
   :block/created-at 1658086883803,
   :block/updated-at 1658086883803}
+ {:block/name "timothy lister",
+  :block/created-at 1659460142715,
+  :block/updated-at 1659460142715}
  {:block/name "todo",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
+ {:block/name "tom demarco",
+  :block/created-at 1659460134294,
+  :block/updated-at 1659460134294}
  {:block/name "tom lyon",
   :block/created-at 1659303605749,
   :block/updated-at 1659303605749}

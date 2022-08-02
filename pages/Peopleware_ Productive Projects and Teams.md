@@ -1,0 +1,4 @@
+- About
+	- A [[Book]] published by [[Addison-Wesley]] in [[2013]] (third edition, first in [[1987]])
+	- By [[Tom DeMarco]], [[Timothy Lister]]
+-
