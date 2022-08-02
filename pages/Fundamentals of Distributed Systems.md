@@ -1,5 +1,6 @@
 - About
 	- A [[Video Course]] published on [[Plularsight]] in [[2021]]
 	- By [[Michael L. Perry]]
-	- Topics: [[Distributed Computing]] [[Software Architecture]]
-	-
+	- Topics: [[Distributed Computing]] [[Software Architecture]] [[Historical Modelling]]
+- Summary:
+	- A well structured explanation of elements needed to design a distributed system illustrated by an easy to follow example of building an event ticket selling website which supports both individual user in its own UI, and system integrations for bulk message processing. All examples in [[C#]] and [[MVC]]. The course has many references to other courses, books and concepts.
