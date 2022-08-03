@@ -1,0 +1,5 @@
+- About
+	- A [[Video Course]] published on [[Pluralsight]] in [[2021]]
+	- By [[Dan Appleman]]
+- Summary
+	- A very good, focused explanation of change needed to lead remote teams. The remote teams are here defined as teams where the primary mode of communication is online rather than in person.
