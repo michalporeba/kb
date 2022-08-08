@@ -93,7 +93,19 @@
   :block/updated-at 1659461203740}
  {:block/name "aug 3rd, 2022",
   :block/created-at 1659481358804,
-  :block/updated-at 1659512584036}
+  :block/updated-at 1659610601564}
+ {:block/name "aug 5th, 2022",
+  :block/created-at 1659654884971,
+  :block/updated-at 1659899070335}
+ {:block/name "aug 6th, 2022",
+  :block/created-at 1659741624596,
+  :block/updated-at 1659899512533}
+ {:block/name "aug 7th, 2022",
+  :block/created-at 1659828391503,
+  :block/updated-at 1659900380251}
+ {:block/name "aug 8th, 2022",
+  :block/created-at 1659914194534,
+  :block/updated-at 1659914194534}
  {:block/name "b",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
@@ -196,6 +208,9 @@
  {:block/name "deep work",
   :block/created-at 1659460026778,
   :block/updated-at 1659460026778}
+ {:block/name "devops",
+  :block/created-at 1659900236170,
+  :block/updated-at 1659900236170}
  {:block/name "difference list",
   :block/created-at 1659339150142,
   :block/updated-at 1659339150142}
@@ -660,6 +675,9 @@
  {:block/name "the goal_ a process of ongoing improvement",
   :block/created-at 1659461203739,
   :block/updated-at 1659461261509}
+ {:block/name "the hidden secrets of technology careers",
+  :block/created-at 1659610420405,
+  :block/updated-at 1659610646492}
  {:block/name "the phoenix project",
   :block/created-at 1659459725128,
   :block/updated-at 1659459725128}
