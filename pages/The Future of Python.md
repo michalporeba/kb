@@ -1,0 +1,3 @@
+- About
+	- A [[Video Course]] published on [[Pluralsight]] in [[2020]]
+	- By [[Austin Bingham]]

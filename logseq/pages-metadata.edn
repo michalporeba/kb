@@ -58,6 +58,9 @@
  {:block/name "alberto brandolini",
   :block/created-at 1659422447991,
   :block/updated-at 1659422682365}
+ {:block/name "algorithms and data structures - part 1",
+  :block/created-at 1660066981831,
+  :block/updated-at 1660068065541}
  {:block/name "amazon sqs",
   :block/created-at 1659423478553,
   :block/updated-at 1659423478553}
@@ -85,6 +88,9 @@
  {:block/name "asynchronous protocol",
   :block/created-at 1659423425554,
   :block/updated-at 1659423425554}
+ {:block/name "aug 10th, 2022",
+  :block/created-at 1660086913763,
+  :block/updated-at 1660086913763}
  {:block/name "aug 1st, 2022",
   :block/created-at 1659309245050,
   :block/updated-at 1659385200559}
@@ -105,7 +111,10 @@
   :block/updated-at 1659900380251}
  {:block/name "aug 8th, 2022",
   :block/created-at 1659914194534,
-  :block/updated-at 1659914194534}
+  :block/updated-at 1659994101072}
+ {:block/name "aug 9th, 2022",
+  :block/created-at 1660000528141,
+  :block/updated-at 1660067510392}
  {:block/name "b",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
@@ -205,6 +214,9 @@
  {:block/name "david wood",
   :block/created-at 1658086860003,
   :block/updated-at 1658086865893}
+ {:block/name "dean motter",
+  :block/created-at 1660067091297,
+  :block/updated-at 1660067091297}
  {:block/name "deep work",
   :block/created-at 1659460026778,
   :block/updated-at 1659460026778}
@@ -242,6 +254,9 @@
  {:block/name "done",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
+ {:block/name "dwight jon zimmerman",
+  :block/created-at 1660067087229,
+  :block/updated-at 1660067087229}
  {:block/name "edward curren",
   :block/created-at 1658138146248,
   :block/updated-at 1658138146248}
@@ -603,9 +618,15 @@
  {:block/name "robert c. martin",
   :block/created-at 1658129438415,
   :block/updated-at 1658129438415}
+ {:block/name "robert horvick",
+  :block/created-at 1660067227526,
+  :block/updated-at 1660067237089}
  {:block/name "rolling hash",
   :block/created-at 1659339482050,
   :block/updated-at 1659339482050}
+ {:block/name "routledge",
+  :block/created-at 1660067055733,
+  :block/updated-at 1660067055733}
  {:block/name "rpc",
   :block/created-at 1659424128069,
   :block/updated-at 1659424128069}
@@ -645,6 +666,9 @@
  {:block/name "software architecture",
   :block/created-at 1659303511036,
   :block/updated-at 1659303511036}
+ {:block/name "software engineer",
+  :block/created-at 1660067237088,
+  :block/updated-at 1660067237088}
  {:block/name "sparql",
   :block/created-at 1658588821462,
   :block/updated-at 1658588821462}
@@ -672,6 +696,9 @@
  {:block/name "the art of immutable architecture",
   :block/created-at 1659422771277,
   :block/updated-at 1659422771277}
+ {:block/name "the goal_ a business graphic novel",
+  :block/created-at 1660041439468,
+  :block/updated-at 1660067092442}
  {:block/name "the goal_ a process of ongoing improvement",
   :block/created-at 1659461203739,
   :block/updated-at 1659461261509}

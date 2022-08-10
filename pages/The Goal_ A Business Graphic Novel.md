@@ -1,0 +1,3 @@
+- About
+	- A [[Book]] published by [[Routledge]] in [[2018]]
+	- By [[Eliyahu M. Goldratt]], adapted by [[Dwight Jon Zimmerman]] and [[Dean Motter]]

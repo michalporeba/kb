@@ -1,0 +1,4 @@
+- About
+	- A [[Video Course]] published on [[Pluralsight]] in [[2020]]
+	- By [[Robert Horvick]]
+- Summary: Examples in [[C#]] .Net Core 3.1 based on a CLI contact manager application.
