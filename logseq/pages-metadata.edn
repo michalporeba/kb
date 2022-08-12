@@ -90,7 +90,7 @@
   :block/updated-at 1659423425554}
  {:block/name "aug 10th, 2022",
   :block/created-at 1660086913763,
-  :block/updated-at 1660086913763}
+  :block/updated-at 1660134644006}
  {:block/name "aug 1st, 2022",
   :block/created-at 1659309245050,
   :block/updated-at 1659385200559}
@@ -115,9 +115,15 @@
  {:block/name "aug 9th, 2022",
   :block/created-at 1660000528141,
   :block/updated-at 1660067510392}
+ {:block/name "austin bingham",
+  :block/created-at 1660134673391,
+  :block/updated-at 1660134673391}
  {:block/name "b",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
+ {:block/name "becoming a better listener",
+  :block/created-at 1660134275306,
+  :block/updated-at 1660134411649}
  {:block/name "bill joy",
   :block/created-at 1659303600391,
   :block/updated-at 1659303600391}
@@ -672,6 +678,9 @@
  {:block/name "sparql",
   :block/created-at 1658588821462,
   :block/updated-at 1658588821462}
+ {:block/name "speed reading",
+  :block/created-at 1660134329295,
+  :block/updated-at 1660134329295}
  {:block/name "sql",
   :block/created-at 1659187985701,
   :block/updated-at 1659187985701}
@@ -696,6 +705,9 @@
  {:block/name "the art of immutable architecture",
   :block/created-at 1659422771277,
   :block/updated-at 1659422771277}
+ {:block/name "the future of python",
+  :block/created-at 1660134449592,
+  :block/updated-at 1660134673391}
  {:block/name "the goal_ a business graphic novel",
   :block/created-at 1660041439468,
   :block/updated-at 1660067092442}
