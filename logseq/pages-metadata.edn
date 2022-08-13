@@ -91,6 +91,9 @@
  {:block/name "aug 10th, 2022",
   :block/created-at 1660086913763,
   :block/updated-at 1660134644006}
+ {:block/name "aug 12th, 2022",
+  :block/created-at 1660319791459,
+  :block/updated-at 1660322254666}
  {:block/name "aug 1st, 2022",
   :block/created-at 1659309245050,
   :block/updated-at 1659385200559}
@@ -278,6 +281,9 @@
  {:block/name "erica dhawan",
   :block/created-at 1659043613785,
   :block/updated-at 1659043613785}
+ {:block/name "ervis trupja",
+  :block/created-at 1660321760381,
+  :block/updated-at 1660321760381}
  {:block/name "estimation",
   :block/created-at 1659043409444,
   :block/updated-at 1659043409444}
@@ -302,6 +308,9 @@
  {:block/name "goodrelations",
   :block/created-at 1658593443794,
   :block/updated-at 1658593443794}
+ {:block/name "google firebase_ the big picture",
+  :block/created-at 1660321724687,
+  :block/updated-at 1660321760381}
  {:block/name "gregor hohpe",
   :block/created-at 1658129412258,
   :block/updated-at 1658129412258}
