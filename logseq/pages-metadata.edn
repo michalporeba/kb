@@ -4,6 +4,12 @@
  {:block/name "1987",
   :block/created-at 1659460123761,
   :block/updated-at 1659460123761}
+ {:block/name "1999",
+  :block/created-at 1660555530677,
+  :block/updated-at 1660555530677}
+ {:block/name "2002",
+  :block/created-at 1660555449165,
+  :block/updated-at 1660555449165}
  {:block/name "2012",
   :block/created-at 1659338256018,
   :block/updated-at 1659338256018}
@@ -55,12 +61,18 @@
  {:block/name "agile london",
   :block/created-at 1659458914263,
   :block/updated-at 1659458914263}
+ {:block/name "agile software development with scrum",
+  :block/created-at 1660555410965,
+  :block/updated-at 1660555449167}
  {:block/name "alberto brandolini",
   :block/created-at 1659422447991,
   :block/updated-at 1659422682365}
  {:block/name "algorithms and data structures - part 1",
   :block/created-at 1660066981831,
-  :block/updated-at 1660068065541}
+  :block/updated-at 1660421295556}
+ {:block/name "algorithms and data structures - part 2",
+  :block/created-at 1660421221184,
+  :block/updated-at 1660421299690}
  {:block/name "amazon sqs",
   :block/created-at 1659423478553,
   :block/updated-at 1659423478553}
@@ -94,6 +106,15 @@
  {:block/name "aug 12th, 2022",
   :block/created-at 1660319791459,
   :block/updated-at 1660322254666}
+ {:block/name "aug 13th, 2022",
+  :block/created-at 1660414944763,
+  :block/updated-at 1660421327944}
+ {:block/name "aug 14th, 2022",
+  :block/created-at 1660433243638,
+  :block/updated-at 1660467670819}
+ {:block/name "aug 15th, 2022",
+  :block/created-at 1660525645638,
+  :block/updated-at 1660555410966}
  {:block/name "aug 1st, 2022",
   :block/created-at 1659309245050,
   :block/updated-at 1659385200559}
@@ -174,7 +195,7 @@
   :block/updated-at 1659043631995}
  {:block/name "conference talk",
   :block/created-at 1659338240514,
-  :block/updated-at 1659338240514}
+  :block/updated-at 1660467736028}
  {:block/name "content-addressed storage",
   :block/created-at 1659337409939,
   :block/updated-at 1659337409939}
@@ -232,6 +253,9 @@
  {:block/name "devops",
   :block/created-at 1659900236170,
   :block/updated-at 1659900236170}
+ {:block/name "devseccon",
+  :block/created-at 1660467758802,
+  :block/updated-at 1660467758802}
  {:block/name "difference list",
   :block/created-at 1659339150142,
   :block/updated-at 1659339150142}
@@ -266,6 +290,9 @@
  {:block/name "dwight jon zimmerman",
   :block/created-at 1660067087229,
   :block/updated-at 1660067087229}
+ {:block/name "edsger w dijkstra",
+  :block/created-at 1660554617819,
+  :block/updated-at 1660554617819}
  {:block/name "edward curren",
   :block/created-at 1658138146248,
   :block/updated-at 1658138146248}
@@ -290,6 +317,9 @@
  {:block/name "event storming",
   :block/created-at 1659422905833,
   :block/updated-at 1659422905833}
+ {:block/name "extreme programming explained",
+  :block/created-at 1660555249964,
+  :block/updated-at 1660555596289}
  {:block/name "fallacies of distributed computing",
   :block/created-at 1659303541204,
   :block/updated-at 1659303679161}
@@ -419,6 +449,9 @@
  {:block/name "keeping up with technology",
   :block/created-at 1658088167039,
   :block/updated-at 1658088203461}
+ {:block/name "ken schwaber",
+  :block/created-at 1660555424835,
+  :block/updated-at 1660555424835}
  {:block/name "kent beck",
   :block/created-at 1658129650598,
   :block/updated-at 1658129650598}
@@ -476,6 +509,9 @@
  {:block/name "michael l. perry",
   :block/created-at 1659303494989,
   :block/updated-at 1659303494989}
+ {:block/name "mike beedle",
+  :block/created-at 1660555429459,
+  :block/updated-at 1660555429459}
  {:block/name "mvc",
   :block/created-at 1659423742395,
   :block/updated-at 1659423742395}
@@ -485,6 +521,9 @@
  {:block/name "new page_ 2021",
   :block/created-at 1658128893690,
   :block/updated-at 1658128893690}
+ {:block/name "new page_ agile software development with scrum",
+  :block/created-at 1660555407704,
+  :block/updated-at 1660555407704}
  {:block/name "new page_ http",
   :block/created-at 1659423448888,
   :block/updated-at 1659423448888}
@@ -581,6 +620,9 @@
  {:block/name "postgresql data manipulation playbook",
   :block/created-at 1659187547298,
   :block/updated-at 1659191501379}
+ {:block/name "prentice hall",
+  :block/created-at 1660555449166,
+  :block/updated-at 1660555449166}
  {:block/name
   "prioritizing tasks and managing time for greater productivity",
   :block/created-at 1658087995632,
@@ -714,6 +756,9 @@
  {:block/name "the art of immutable architecture",
   :block/created-at 1659422771277,
   :block/updated-at 1659422771277}
+ {:block/name "the error of our ways",
+  :block/created-at 1660554569751,
+  :block/updated-at 1660554569751}
  {:block/name "the future of python",
   :block/created-at 1660134449592,
   :block/updated-at 1660134673391}
@@ -753,6 +798,10 @@
  {:block/name "topic",
   :block/created-at 1658086982835,
   :block/updated-at 1658087717757}
+ {:block/name
+  "value stream mapping is dead. long live value stream mapping!",
+  :block/created-at 1660467631581,
+  :block/updated-at 1660467758803}
  {:block/name "vasco duarte",
   :block/created-at 1659043374323,
   :block/updated-at 1659043374323}
@@ -769,5 +818,9 @@
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
  {:block/name "waiting",
-  :block/created-at 1657737032303, 
-  :block/updated-at 1657737032303}]
+  :block/created-at 1657737032303,
+  :block/updated-at 1657737032303}
+ {:block/name
+  "war is peace, freedom is slavery, ignorance is strength, scrum is agile",
+  :block/created-at 1660555213059, 
+  :block/updated-at 1660555213059}]
