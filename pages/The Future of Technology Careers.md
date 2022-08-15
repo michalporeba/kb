@@ -1,0 +1,5 @@
+- About
+	- A [[Video Course]] published on [[Pluralsight]] in [[2020]]
+	- By [[Dan Appleman]]
+	- Topic: [[Career]] [[Technology]]
+- Summary: The ways to do long term career planning in technology, but also how to consider alternatives. It is an interesting view on career planning from the perspective of something that should give us money and satisfaction but with consideration that in digital technology most of us sell our time and perishable skills.
