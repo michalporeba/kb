@@ -114,7 +114,10 @@
   :block/updated-at 1660467670819}
  {:block/name "aug 15th, 2022",
   :block/created-at 1660525645638,
-  :block/updated-at 1660555410966}
+  :block/updated-at 1660592658730}
+ {:block/name "aug 16th, 2022",
+  :block/created-at 1660605124855,
+  :block/updated-at 1660605124855}
  {:block/name "aug 1st, 2022",
   :block/created-at 1659309245050,
   :block/updated-at 1659385200559}
@@ -169,6 +172,9 @@
  {:block/name "card",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
+ {:block/name "career",
+  :block/created-at 1660592067650,
+  :block/updated-at 1660592067650}
  {:block/name "career planning",
   :block/created-at 1658594139368,
   :block/updated-at 1658594139368}
@@ -241,6 +247,9 @@
  {:block/name "data warehouses",
   :block/created-at 1658608189663,
   :block/updated-at 1658608189663}
+ {:block/name "david mertz",
+  :block/created-at 1660568655763,
+  :block/updated-at 1660568655763}
  {:block/name "david wood",
   :block/created-at 1658086860003,
   :block/updated-at 1658086865893}
@@ -253,9 +262,6 @@
  {:block/name "devops",
   :block/created-at 1659900236170,
   :block/updated-at 1659900236170}
- {:block/name "devseccon",
-  :block/created-at 1660467758802,
-  :block/updated-at 1660467758802}
  {:block/name "difference list",
   :block/created-at 1659339150142,
   :block/updated-at 1659339150142}
@@ -266,6 +272,9 @@
  {:block/name "distributed computing",
   :block/created-at 1659303503232,
   :block/updated-at 1659303503232}
+ {:block/name "dit",
+  :block/created-at 1660591391966,
+  :block/updated-at 1660591391966}
  {:block/name "dit career framework",
   :block/created-at 1657794964441,
   :block/updated-at 1657794964441}
@@ -738,6 +747,12 @@
  {:block/name "st. martin's publishing group",
   :block/created-at 1659043597118,
   :block/updated-at 1659043597118}
+ {:block/name "steve pereira",
+  :block/created-at 1660591604269,
+  :block/updated-at 1660591604269}
+ {:block/name "steven holden",
+  :block/created-at 1660568660272,
+  :block/updated-at 1660568660272}
  {:block/name "strange loop",
   :block/created-at 1659338254534,
   :block/updated-at 1659338254534}
@@ -747,6 +762,9 @@
  {:block/name "teamwork",
   :block/created-at 1659043151461,
   :block/updated-at 1659043151461}
+ {:block/name "technology",
+  :block/created-at 1660592067648,
+  :block/updated-at 1660592067648}
  {:block/name "temporal coupling",
   :block/created-at 1659423252420,
   :block/updated-at 1659423252420}
@@ -762,6 +780,9 @@
  {:block/name "the future of python",
   :block/created-at 1660134449592,
   :block/updated-at 1660134673391}
+ {:block/name "the future of technology careers",
+  :block/created-at 1660592027159,
+  :block/updated-at 1660592156234}
  {:block/name "the goal_ a business graphic novel",
   :block/created-at 1660041439468,
   :block/updated-at 1660067092442}
@@ -801,7 +822,7 @@
  {:block/name
   "value stream mapping is dead. long live value stream mapping!",
   :block/created-at 1660467631581,
-  :block/updated-at 1660467758803}
+  :block/updated-at 1660591623179}
  {:block/name "vasco duarte",
   :block/created-at 1659043374323,
   :block/updated-at 1659043374323}
