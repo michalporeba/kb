@@ -136,6 +136,15 @@
  {:block/name "aug 22nd, 2022",
   :block/created-at 1661124036083,
   :block/updated-at 1661124036083}
+ {:block/name "aug 27th, 2022",
+  :block/created-at 1661619516184,
+  :block/updated-at 1661699260982}
+ {:block/name "aug 28th, 2022",
+  :block/created-at 1661641952589,
+  :block/updated-at 1661641952589}
+ {:block/name "aug 29th, 2022",
+  :block/created-at 1661727609895,
+  :block/updated-at 1661727609895}
  {:block/name "aug 2nd, 2022",
   :block/created-at 1659394913231,
   :block/updated-at 1659461203740}
@@ -196,6 +205,9 @@
  {:block/name "career planning",
   :block/created-at 1658594139368,
   :block/updated-at 1658594139368}
+ {:block/name "cassandra 3 for developers",
+  :block/created-at 1661626157854,
+  :block/updated-at 1661626157854}
  {:block/name "civil service learning",
   :block/created-at 1657794702094,
   :block/updated-at 1657794702094}
@@ -265,6 +277,9 @@
  {:block/name "data warehouses",
   :block/created-at 1658608189663,
   :block/updated-at 1658608189663}
+ {:block/name "dave farley",
+  :block/created-at 1661619642673,
+  :block/updated-at 1661619642673}
  {:block/name "david mertz",
   :block/created-at 1660568655763,
   :block/updated-at 1660568655763}
@@ -383,6 +398,9 @@
  {:block/name "historical modelling",
   :block/created-at 1659422784481,
   :block/updated-at 1659422784481}
+ {:block/name "how to be a full stack developer in 2022",
+  :block/created-at 1661619560507,
+  :block/updated-at 1661619642673}
  {:block/name "how to be a great mentee_ get more out of mentoring",
   :block/created-at 1658572942017,
   :block/updated-at 1658593922002}
@@ -656,6 +674,9 @@
  {:block/name "prentice hall",
   :block/created-at 1660555449166,
   :block/updated-at 1660555449166}
+ {:block/name "presentation",
+  :block/created-at 1661619603418,
+  :block/updated-at 1661619603418}
  {:block/name
   "prioritizing tasks and managing time for greater productivity",
   :block/created-at 1658087995632,
@@ -867,5 +888,8 @@
   :block/updated-at 1657737032303}
  {:block/name
   "war is peace, freedom is slavery, ignorance is strength, scrum is agile",
-  :block/created-at 1660555213059, 
-  :block/updated-at 1660555213059}]
+  :block/created-at 1660555213059,
+  :block/updated-at 1660555213059}
+ {:block/name "youtube",
+  :block/created-at 1661619608839, 
+  :block/updated-at 1661619608839}]

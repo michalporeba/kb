@@ -1,0 +1,6 @@
+- About
+	- [[Interview]] with [[Michael Feathers]] published on [[YouTube]] in [[2022]]
+	- By [[Dave Farley]]
+	- Part of [[The Engineering Room]] (Episode 10)
+	- URL: https://www.youtube.com/watch?v=UGD8pMMJlbk
+-

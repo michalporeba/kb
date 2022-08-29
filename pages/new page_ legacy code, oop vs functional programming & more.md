@@ -1,0 +1,2 @@
+- title:: "new page_ legacy code, oop vs functional programming & more"
+-

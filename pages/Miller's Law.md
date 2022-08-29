@@ -1,0 +1,3 @@
+- The idea from the 1950s that our immediate, short term memory is limited to seven pieces of information (+/- 2).
+- TOPICS: [[CS Relevant Laws]]
+-
