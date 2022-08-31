@@ -151,6 +151,9 @@
  {:block/name "aug 30th, 2022",
   :block/created-at 1661814654644,
   :block/updated-at 1661870532097}
+ {:block/name "aug 31st, 2022",
+  :block/created-at 1661938638286,
+  :block/updated-at 1661944479506}
  {:block/name "aug 3rd, 2022",
   :block/created-at 1659481358804,
   :block/updated-at 1659610601564}
@@ -283,6 +286,9 @@
  {:block/name "data warehouses",
   :block/created-at 1658608189663,
   :block/updated-at 1658608189663}
+ {:block/name "data wrangling with python 3",
+  :block/created-at 1661942033088,
+  :block/updated-at 1661942060383}
  {:block/name "dave farley",
   :block/created-at 1661619642673,
   :block/updated-at 1661619642673}
@@ -295,6 +301,9 @@
  {:block/name "dean motter",
   :block/created-at 1660067091297,
   :block/updated-at 1660067091297}
+ {:block/name "decision trees",
+  :block/created-at 1661944475012,
+  :block/updated-at 1661944475012}
  {:block/name "deep work",
   :block/created-at 1659460026778,
   :block/updated-at 1659460026778}
@@ -515,6 +524,9 @@
  {:block/name "key learning",
   :block/created-at 1658159230912,
   :block/updated-at 1658159230912}
+ {:block/name "knn's",
+  :block/created-at 1661944447926,
+  :block/updated-at 1661944447926}
  {:block/name "later",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
@@ -530,6 +542,9 @@
  {:block/name "legacy code, oop vs functional programming & more",
   :block/created-at 1661792776019,
   :block/updated-at 1661792868131}
+ {:block/name "linear regression",
+  :block/created-at 1661944451707,
+  :block/updated-at 1661944451707}
  {:block/name "linked data",
   :block/created-at 1658086768622,
   :block/updated-at 1658087621567}
@@ -584,6 +599,9 @@
  {:block/name "mvc",
   :block/created-at 1659423742395,
   :block/updated-at 1659423742395}
+ {:block/name "naïve bayes",
+  :block/created-at 1661944475013,
+  :block/updated-at 1661944475013}
  {:block/name "new page_ 1987",
   :block/created-at 1659460122474,
   :block/updated-at 1659460122474}
@@ -602,6 +620,15 @@
  {:block/name "new page_ ja",
   :block/created-at 1659204710262,
   :block/updated-at 1659204710262}
+ {:block/name "new page_ knn",
+  :block/created-at 1661944445020,
+  :block/updated-at 1661944445020}
+ {:block/name "new page_ knn'",
+  :block/created-at 1661944445385,
+  :block/updated-at 1661944445385}
+ {:block/name "new page_ knn's",
+  :block/created-at 1661944445490,
+  :block/updated-at 1661944445490}
  {:block/name
   "new page_ legacy code, oop vs functional programming & more",
   :block/created-at 1661792774715,
@@ -702,6 +729,9 @@
  {:block/name "postgresql data manipulation playbook",
   :block/created-at 1659187547298,
   :block/updated-at 1659191501379}
+ {:block/name "pratheerth padman",
+  :block/created-at 1661942060382,
+  :block/updated-at 1661942060382}
  {:block/name "prentice hall",
   :block/created-at 1660555449166,
   :block/updated-at 1660555449166}
