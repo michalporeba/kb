@@ -144,10 +144,13 @@
   :block/updated-at 1661641952589}
  {:block/name "aug 29th, 2022",
   :block/created-at 1661727609895,
-  :block/updated-at 1661727609895}
+  :block/updated-at 1661793985317}
  {:block/name "aug 2nd, 2022",
   :block/created-at 1659394913231,
   :block/updated-at 1659461203740}
+ {:block/name "aug 30th, 2022",
+  :block/created-at 1661814654644,
+  :block/updated-at 1661870532097}
  {:block/name "aug 3rd, 2022",
   :block/created-at 1659481358804,
   :block/updated-at 1659610601564}
@@ -250,6 +253,9 @@
  {:block/name "createspace independent publishing platform",
   :block/created-at 1659043365907,
   :block/updated-at 1659043365907}
+ {:block/name "cs relevant laws",
+  :block/created-at 1661794019895,
+  :block/updated-at 1661794019895}
  {:block/name "cultivating effective relationships in virtual work",
   :block/created-at 1659042224345,
   :block/updated-at 1659043250580}
@@ -368,6 +374,9 @@
  {:block/name "favorites",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
+ {:block/name "functional programming",
+  :block/created-at 1661793905564,
+  :block/updated-at 1661793905564}
  {:block/name "fundamentals of distributed systems",
   :block/created-at 1659303309040,
   :block/updated-at 1659423806496}
@@ -431,6 +440,9 @@
  {:block/name "integrations",
   :block/created-at 1658087098439,
   :block/updated-at 1658087098439}
+ {:block/name "interview",
+  :block/created-at 1661792816188,
+  :block/updated-at 1661792816188}
  {:block/name "introduction to information architecture",
   :block/created-at 1658087127768,
   :block/updated-at 1658087254985}
@@ -515,6 +527,9 @@
  {:block/name "learning technology in the information age",
   :block/created-at 1658390098236,
   :block/updated-at 1658594139370}
+ {:block/name "legacy code, oop vs functional programming & more",
+  :block/created-at 1661792776019,
+  :block/updated-at 1661792868131}
  {:block/name "linked data",
   :block/created-at 1658086768622,
   :block/updated-at 1658087621567}
@@ -551,6 +566,9 @@
  {:block/name "mentoring",
   :block/created-at 1658573195564,
   :block/updated-at 1658573195564}
+ {:block/name "michael feathers",
+  :block/created-at 1661792816187,
+  :block/updated-at 1661793550155}
  {:block/name "michael l. perry",
   :block/created-at 1659303494989,
   :block/updated-at 1659303494989}
@@ -560,6 +578,9 @@
  {:block/name "mike woodring",
   :block/created-at 1660914317172,
   :block/updated-at 1660914331206}
+ {:block/name "miller's law",
+  :block/created-at 1661793200653,
+  :block/updated-at 1661794019896}
  {:block/name "mvc",
   :block/created-at 1659423742395,
   :block/updated-at 1659423742395}
@@ -581,6 +602,10 @@
  {:block/name "new page_ ja",
   :block/created-at 1659204710262,
   :block/updated-at 1659204710262}
+ {:block/name
+  "new page_ legacy code, oop vs functional programming & more",
+  :block/created-at 1661792774715,
+  :block/updated-at 1661792774715}
  {:block/name "new page_ peopleware_ productive projects and teams",
   :block/created-at 1659460024832,
   :block/updated-at 1659460024832}
@@ -632,6 +657,9 @@
  {:block/name "new page_ vladimir khorikov",
   :block/created-at 1659336312491,
   :block/updated-at 1659336312491}
+ {:block/name "new page_ youtub",
+  :block/created-at 1661792824332,
+  :block/updated-at 1661792824332}
  {:block/name "noestimate",
   :block/created-at 1659043389165,
   :block/updated-at 1659043389165}
@@ -641,6 +669,9 @@
  {:block/name "now",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
+ {:block/name "object oriented programming",
+  :block/created-at 1661793901096,
+  :block/updated-at 1661793901096}
  {:block/name "parkinson's law",
   :block/created-at 1659460733160,
   :block/updated-at 1659460733160}
@@ -780,6 +811,9 @@
  {:block/name "software engineer",
   :block/created-at 1660067237088,
   :block/updated-at 1660067237088}
+ {:block/name "solid",
+  :block/created-at 1661793932853,
+  :block/updated-at 1661793932853}
  {:block/name "sparql",
   :block/created-at 1658588821462,
   :block/updated-at 1658588821462}
@@ -804,6 +838,9 @@
  {:block/name "synchronous protocol",
   :block/created-at 1659423409621,
   :block/updated-at 1659423409621}
+ {:block/name "team topologies",
+  :block/created-at 1661793613292,
+  :block/updated-at 1661793613292}
  {:block/name "teamwork",
   :block/created-at 1659043151461,
   :block/updated-at 1659043151461}
@@ -813,12 +850,21 @@
  {:block/name "temporal coupling",
   :block/created-at 1659423252420,
   :block/updated-at 1659423252420}
+ {:block/name "test driven development",
+  :block/created-at 1661792949832,
+  :block/updated-at 1661792949832}
  {:block/name "test-driven development by example",
   :block/created-at 1658129633986,
   :block/updated-at 1658129650598}
  {:block/name "the art of immutable architecture",
   :block/created-at 1659422771277,
   :block/updated-at 1659422771277}
+ {:block/name "the deep synergy between testability and good design",
+  :block/created-at 1661793498984,
+  :block/updated-at 1661793498984}
+ {:block/name "the engineering room",
+  :block/created-at 1661792856797,
+  :block/updated-at 1661792856797}
  {:block/name "the error of our ways",
   :block/created-at 1660554569751,
   :block/updated-at 1660554569751}
@@ -890,6 +936,9 @@
   "war is peace, freedom is slavery, ignorance is strength, scrum is agile",
   :block/created-at 1660555213059,
   :block/updated-at 1660555213059}
+ {:block/name "working effectively with legacy code",
+  :block/created-at 1661793550154,
+  :block/updated-at 1661793550154}
  {:block/name "youtube",
   :block/created-at 1661619608839, 
   :block/updated-at 1661619608839}]
