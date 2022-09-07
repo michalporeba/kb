@@ -199,6 +199,9 @@
  {:block/name "building evolutionary architecture",
   :block/created-at 1658129306470,
   :block/updated-at 1658129333045}
+ {:block/name "building features from text data",
+  :block/created-at 1662478596586,
+  :block/updated-at 1662478624014}
  {:block/name "c",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
@@ -473,6 +476,9 @@
  {:block/name "james gosling",
   :block/created-at 1659303611985,
   :block/updated-at 1659303611985}
+ {:block/name "janani ravi",
+  :block/created-at 1662478624012,
+  :block/updated-at 1662478624012}
  {:block/name "jason alba",
   :block/created-at 1658088119559,
   :block/updated-at 1658088119559}
@@ -636,6 +642,48 @@
  {:block/name "new page_ agile software development with scrum",
   :block/created-at 1660555407704,
   :block/updated-at 1660555407704}
+ {:block/name "new page_ building features",
+  :block/created-at 1662478590346,
+  :block/updated-at 1662478590346}
+ {:block/name "new page_ building features f",
+  :block/created-at 1662478590518,
+  :block/updated-at 1662478590518}
+ {:block/name "new page_ building features fr",
+  :block/created-at 1662478590605,
+  :block/updated-at 1662478590605}
+ {:block/name "new page_ building features fro",
+  :block/created-at 1662478590690,
+  :block/updated-at 1662478590690}
+ {:block/name "new page_ building features from",
+  :block/created-at 1662478590758,
+  :block/updated-at 1662478590758}
+ {:block/name "new page_ building features from te",
+  :block/created-at 1662478593688,
+  :block/updated-at 1662478593688}
+ {:block/name "new page_ building features from tet",
+  :block/created-at 1662478593543,
+  :block/updated-at 1662478593543}
+ {:block/name "new page_ building features from tetx",
+  :block/created-at 1662478593125,
+  :block/updated-at 1662478593125}
+ {:block/name "new page_ building features from tex",
+  :block/created-at 1662478593773,
+  :block/updated-at 1662478593773}
+ {:block/name "new page_ building features from text",
+  :block/created-at 1662478593838,
+  :block/updated-at 1662478593838}
+ {:block/name "new page_ building features from text d",
+  :block/created-at 1662478594169,
+  :block/updated-at 1662478594169}
+ {:block/name "new page_ building features from text da",
+  :block/created-at 1662478594306,
+  :block/updated-at 1662478594306}
+ {:block/name "new page_ building features from text dat",
+  :block/created-at 1662478594356,
+  :block/updated-at 1662478594356}
+ {:block/name "new page_ building features from text data",
+  :block/created-at 1662478594456,
+  :block/updated-at 1662478594456}
  {:block/name "new page_ d",
   :block/created-at 1660732684083,
   :block/updated-at 1660732684083}
@@ -853,7 +901,16 @@
   :block/updated-at 1662149651701}
  {:block/name "sep 3rd, 2022",
   :block/created-at 1662159957430,
-  :block/updated-at 1662159957430}
+  :block/updated-at 1662219140371}
+ {:block/name "sep 4th, 2022",
+  :block/created-at 1662246518729,
+  :block/updated-at 1662246518729}
+ {:block/name "sep 6th, 2022",
+  :block/created-at 1662478585136,
+  :block/updated-at 1662479077569}
+ {:block/name "sep 7th, 2022",
+  :block/created-at 1662505763037,
+  :block/updated-at 1662505763037}
  {:block/name "serialisation anomalies",
   :block/created-at 1659187936261,
   :block/updated-at 1659187936261}

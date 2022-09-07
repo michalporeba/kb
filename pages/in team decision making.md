@@ -1,0 +1,3 @@
+- By involving others in the decision-making process, you create an opportunity for colleagues to share ideas, learn from each other, and work toward a common goal.
+- Source: https://online.hbs.edu/blog/post/team-decision-making
+-
