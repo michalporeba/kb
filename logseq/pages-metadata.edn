@@ -223,6 +223,9 @@
  {:block/name "cassandra 3 for developers",
   :block/created-at 1661626157854,
   :block/updated-at 1661626157854}
+ {:block/name "civil service",
+  :block/created-at 1662556391622,
+  :block/updated-at 1662556391622}
  {:block/name "civil service learning",
   :block/created-at 1657794702094,
   :block/updated-at 1657794702094}
@@ -398,6 +401,9 @@
  {:block/name "fallacies of distributed computing",
   :block/created-at 1659303541204,
   :block/updated-at 1659303679161}
+ {:block/name "fast stream",
+  :block/created-at 1662556456199,
+  :block/updated-at 1662556456199}
  {:block/name "favorites",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
@@ -407,6 +413,10 @@
  {:block/name "fundamentals of distributed systems",
   :block/created-at 1659303309040,
   :block/updated-at 1659423806496}
+ {:block/name
+  "future leaders_ building a diverse and inclusive public sector",
+  :block/created-at 1662555715496,
+  :block/updated-at 1662556820040}
  {:block/name "gallery books",
   :block/created-at 1659043733557,
   :block/updated-at 1659043733557}
@@ -458,12 +468,18 @@
  {:block/name "icagile (icp-asd)_ evolving architecture and design",
   :block/created-at 1658128659291,
   :block/updated-at 1658129633987}
+ {:block/name "in team decision making",
+  :block/created-at 1662558797854,
+  :block/updated-at 1662558819074}
  {:block/name "in-progress",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
  {:block/name "information architecture",
   :block/created-at 1657737025348,
   :block/updated-at 1658086987634}
+ {:block/name "institute for government",
+  :block/created-at 1662555751292,
+  :block/updated-at 1662555751292}
  {:block/name "integrations",
   :block/created-at 1658087098439,
   :block/updated-at 1658087098439}
@@ -811,6 +827,9 @@
  {:block/name "presentation",
   :block/created-at 1661619603418,
   :block/updated-at 1661619603418}
+ {:block/name "pricewaterhouse coopers",
+  :block/created-at 1662555786552,
+  :block/updated-at 1662555786552}
  {:block/name
   "prioritizing tasks and managing time for greater productivity",
   :block/created-at 1658087995632,
@@ -910,7 +929,10 @@
   :block/updated-at 1662479077569}
  {:block/name "sep 7th, 2022",
   :block/created-at 1662505763037,
-  :block/updated-at 1662505763037}
+  :block/updated-at 1662559619842}
+ {:block/name "sep 8th, 2022",
+  :block/created-at 1662592143226,
+  :block/updated-at 1662592143226}
  {:block/name "serialisation anomalies",
   :block/created-at 1659187936261,
   :block/updated-at 1659187936261}
