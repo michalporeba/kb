@@ -1,0 +1,4 @@
+- About
+	- A [[Book]] published by [[IT Revolution]] in [[2022]]
+	- By [[Matthew Skelton]], [[Manuel Pais]]
+	- Topics: [[Team Topologies]] [[Remote Work]] [[Teamwork]]

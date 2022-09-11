@@ -395,6 +395,10 @@
  {:block/name "event storming",
   :block/created-at 1659422905833,
   :block/updated-at 1659422905833}
+ {:block/name
+  "exploiting linked data and knowledge graphs in large organisations",
+  :block/created-at 1662657917146,
+  :block/updated-at 1662658143664}
  {:block/name "extreme programming explained",
   :block/created-at 1660555249964,
   :block/updated-at 1660555596289}
@@ -429,12 +433,18 @@
  {:block/name "google firebase_ the big picture",
   :block/created-at 1660321724687,
   :block/updated-at 1660321760381}
+ {:block/name "graph databases",
+  :block/created-at 1662658143663,
+  :block/updated-at 1662658143663}
  {:block/name "gregor hohpe",
   :block/created-at 1658129412258,
   :block/updated-at 1658129412258}
  {:block/name "grpc",
   :block/created-at 1659423458019,
   :block/updated-at 1659423458019}
+ {:block/name "guido vetere",
+  :block/created-at 1662658008750,
+  :block/updated-at 1662658008750}
  {:block/name "haskell",
   :block/created-at 1659339228743,
   :block/updated-at 1659339228743}
@@ -444,6 +454,9 @@
  {:block/name "historical modelling",
   :block/created-at 1659422784481,
   :block/updated-at 1659422784481}
+ {:block/name "honghan wu",
+  :block/created-at 1662658021579,
+  :block/updated-at 1662658021579}
  {:block/name "how to be a full stack developer in 2022",
   :block/created-at 1661619560507,
   :block/updated-at 1661619642673}
@@ -501,6 +514,9 @@
  {:block/name "jason browning",
   :block/created-at 1659204303528,
   :block/updated-at 1659204303528}
+ {:block/name "jeff z. pan",
+  :block/created-at 1662658004641,
+  :block/updated-at 1662658004641}
  {:block/name "jim weaver",
   :block/created-at 1658128789787,
   :block/updated-at 1658128789787}
@@ -510,6 +526,9 @@
  {:block/name "john little",
   :block/created-at 1659460384121,
   :block/updated-at 1659460384121}
+ {:block/name "jose manuel gomez-perez",
+  :block/created-at 1662658014660,
+  :block/updated-at 1662658014660}
  {:block/name "jul 13th, 2022",
   :block/created-at 1657737025256,
   :block/updated-at 1658088017985}
@@ -564,6 +583,9 @@
  {:block/name "knn's",
   :block/created-at 1661944447926,
   :block/updated-at 1661944447926}
+ {:block/name "knowledge graphs",
+  :block/created-at 1662658143664,
+  :block/updated-at 1662658143664}
  {:block/name "later",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
@@ -933,6 +955,9 @@
  {:block/name "sep 8th, 2022",
   :block/created-at 1662592143226,
   :block/updated-at 1662592143226}
+ {:block/name "sep 9th, 2022",
+  :block/created-at 1662678179818,
+  :block/updated-at 1662678179818}
  {:block/name "serialisation anomalies",
   :block/created-at 1659187936261,
   :block/updated-at 1659187936261}
@@ -963,6 +988,9 @@
  {:block/name "speed reading",
   :block/created-at 1660134329295,
   :block/updated-at 1660134329295}
+ {:block/name "springer",
+  :block/created-at 1662657929798,
+  :block/updated-at 1662657929798}
  {:block/name "sql",
   :block/created-at 1659187985701,
   :block/updated-at 1659187985701}

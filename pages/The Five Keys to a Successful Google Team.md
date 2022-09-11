@@ -1,0 +1,6 @@
+- ABout
+	- A [[Blog Post]] publisehd on [[re:Work]] in [[2015]]
+	- By [[Julia Rozovsky]]
+	- Topics: [[Teamwork]] [[Google]]
+	- Source: https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/
+	-
