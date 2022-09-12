@@ -190,6 +190,12 @@
  {:block/name "bill joy",
   :block/created-at 1659303600391,
   :block/updated-at 1659303600391}
+ {:block/name "blended course",
+  :block/created-at 1662975467013,
+  :block/updated-at 1662975467013}
+ {:block/name "blog post",
+  :block/created-at 1662815453844,
+  :block/updated-at 1662815453844}
  {:block/name "book",
   :block/created-at 1658086822939,
   :block/updated-at 1658086822939}
@@ -241,6 +247,9 @@
  {:block/name "cnn",
   :block/created-at 1662059414844,
   :block/updated-at 1662059414844}
+ {:block/name "cognitive load",
+  :block/created-at 1662815793167,
+  :block/updated-at 1662815793167}
  {:block/name "collaboration",
   :block/created-at 1659043623661,
   :block/updated-at 1659043623661}
@@ -328,6 +337,9 @@
  {:block/name "deep work",
   :block/created-at 1659460026778,
   :block/updated-at 1659460026778}
+ {:block/name "definition",
+  :block/created-at 1662815805831,
+  :block/updated-at 1662815805831}
  {:block/name "devops",
   :block/created-at 1659900236170,
   :block/updated-at 1659900236170}
@@ -377,6 +389,12 @@
  {:block/name "eliyahu m. goldratt",
   :block/created-at 1659461261508,
   :block/updated-at 1659461261508}
+ {:block/name "emotional intelligence",
+  :block/created-at 1662975547404,
+  :block/updated-at 1662975547404}
+ {:block/name "emotional intelligence course on csl",
+  :block/created-at 1662975458186,
+  :block/updated-at 1662975547404}
  {:block/name "enterprise integration patterns",
   :block/created-at 1658129397819,
   :block/updated-at 1658129412258}
@@ -430,6 +448,9 @@
  {:block/name "goodrelations",
   :block/created-at 1658593443794,
   :block/updated-at 1658593443794}
+ {:block/name "google",
+  :block/created-at 1662815516250,
+  :block/updated-at 1662815516250}
  {:block/name "google firebase_ the big picture",
   :block/created-at 1660321724687,
   :block/updated-at 1660321760381}
@@ -472,6 +493,9 @@
  {:block/name "http",
   :block/created-at 1659423450735,
   :block/updated-at 1659423450735}
+ {:block/name "hybrid working",
+  :block/created-at 1662815410116,
+  :block/updated-at 1662815410116}
  {:block/name "hypertext",
   :block/created-at 1658088295791,
   :block/updated-at 1658088295791}
@@ -487,6 +511,9 @@
  {:block/name "in-progress",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
+ {:block/name "inclusion in the civil service",
+  :block/created-at 1662903687008,
+  :block/updated-at 1662903687008}
  {:block/name "information architecture",
   :block/created-at 1657737025348,
   :block/updated-at 1658086987634}
@@ -502,6 +529,9 @@
  {:block/name "introduction to information architecture",
   :block/created-at 1658087127768,
   :block/updated-at 1658087254985}
+ {:block/name "it revolution",
+  :block/created-at 1662814564128,
+  :block/updated-at 1662814564128}
  {:block/name "james gosling",
   :block/created-at 1659303611985,
   :block/updated-at 1659303611985}
@@ -565,6 +595,9 @@
  {:block/name "jul 31st, 2022",
   :block/created-at 1659231436257,
   :block/updated-at 1659303551737}
+ {:block/name "julia rozovsky",
+  :block/created-at 1662815499751,
+  :block/updated-at 1662815499751}
  {:block/name "jumprope",
   :block/created-at 1659339935905,
   :block/updated-at 1659339935905}
@@ -626,6 +659,9 @@
  {:block/name "manning",
   :block/created-at 1658086842177,
   :block/updated-at 1658086842177}
+ {:block/name "manuel pais",
+  :block/created-at 1662814638865,
+  :block/updated-at 1662814638865}
  {:block/name "mark heath",
   :block/created-at 1659337921906,
   :block/updated-at 1659337921906}
@@ -638,6 +674,9 @@
  {:block/name "matthew renze",
   :block/created-at 1658129531608,
   :block/updated-at 1658129531608}
+ {:block/name "matthew skelton",
+  :block/created-at 1662814638865,
+  :block/updated-at 1662814876573}
  {:block/name "md5",
   :block/created-at 1659339505860,
   :block/updated-at 1659339505860}
@@ -680,6 +719,12 @@
  {:block/name "new page_ agile software development with scrum",
   :block/created-at 1660555407704,
   :block/updated-at 1660555407704}
+ {:block/name "new page_ blended cour",
+  :block/created-at 1662975466360,
+  :block/updated-at 1662975466360}
+ {:block/name "new page_ blended coure",
+  :block/created-at 1662975466540,
+  :block/updated-at 1662975466540}
  {:block/name "new page_ building features",
   :block/created-at 1662478590346,
   :block/updated-at 1662478590346}
@@ -886,15 +931,24 @@
  {:block/name "rdfa 1.1 light",
   :block/created-at 1658593751830,
   :block/updated-at 1658593751830}
+ {:block/name "re_work",
+  :block/created-at 1662815491047,
+  :block/updated-at 1662815491047}
  {:block/name "readme",
   :block/created-at 1657737025330,
   :block/updated-at 1657737025330}
  {:block/name "remote procedure call",
   :block/created-at 1659424117197,
   :block/updated-at 1659424270818}
+ {:block/name "remote team interactions workbook",
+  :block/created-at 1662814546491,
+  :block/updated-at 1662814916277}
  {:block/name "remote work",
   :block/created-at 1659043177677,
   :block/updated-at 1659043177677}
+ {:block/name "remote-first",
+  :block/created-at 1662815313540,
+  :block/updated-at 1662815313540}
  {:block/name "rest",
   :block/created-at 1659423460308,
   :block/updated-at 1659423460308}
@@ -934,6 +988,15 @@
  {:block/name "scott vokes",
   :block/created-at 1659338262022,
   :block/updated-at 1659340657331}
+ {:block/name "sep 10th, 2022",
+  :block/created-at 1662814533952,
+  :block/updated-at 1662816151904}
+ {:block/name "sep 11th, 2022",
+  :block/created-at 1662850803043,
+  :block/updated-at 1662905432136}
+ {:block/name "sep 12th, 2022",
+  :block/created-at 1662937216437,
+  :block/updated-at 1662976261513}
  {:block/name "sep 1st, 2022",
   :block/created-at 1661987504044,
   :block/updated-at 1662062800230}
@@ -952,12 +1015,6 @@
  {:block/name "sep 7th, 2022",
   :block/created-at 1662505763037,
   :block/updated-at 1662559619842}
- {:block/name "sep 8th, 2022",
-  :block/created-at 1662592143226,
-  :block/updated-at 1662592143226}
- {:block/name "sep 9th, 2022",
-  :block/created-at 1662678179818,
-  :block/updated-at 1662678179818}
  {:block/name "serialisation anomalies",
   :block/created-at 1659187936261,
   :block/updated-at 1659187936261}
@@ -1018,6 +1075,10 @@
  {:block/name "team topologies",
   :block/created-at 1661793613292,
   :block/updated-at 1661793613292}
+ {:block/name
+  "team topologies_ organizing business and technology teams for fast flow",
+  :block/created-at 1662814801939,
+  :block/updated-at 1662814892457}
  {:block/name "teamwork",
   :block/created-at 1659043151461,
   :block/updated-at 1659043151461}
@@ -1045,6 +1106,9 @@
  {:block/name "the error of our ways",
   :block/created-at 1660554569751,
   :block/updated-at 1660554569751}
+ {:block/name "the five keys to a successful google team",
+  :block/created-at 1662815440548,
+  :block/updated-at 1662815560203}
  {:block/name "the future of python",
   :block/created-at 1660134449592,
   :block/updated-at 1660134673391}
