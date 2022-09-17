@@ -513,7 +513,7 @@
   :block/updated-at 1657737032303}
  {:block/name "inclusion in the civil service",
   :block/created-at 1662903687008,
-  :block/updated-at 1662903687008}
+  :block/updated-at 1663430368598}
  {:block/name "information architecture",
   :block/created-at 1657737025348,
   :block/updated-at 1658086987634}
@@ -997,6 +997,9 @@
  {:block/name "sep 12th, 2022",
   :block/created-at 1662937216437,
   :block/updated-at 1662976261513}
+ {:block/name "sep 17th, 2022",
+  :block/created-at 1663428620569,
+  :block/updated-at 1663428620569}
  {:block/name "sep 1st, 2022",
   :block/created-at 1661987504044,
   :block/updated-at 1662062800230}
@@ -1014,7 +1017,7 @@
   :block/updated-at 1662479077569}
  {:block/name "sep 7th, 2022",
   :block/created-at 1662505763037,
-  :block/updated-at 1662559619842}
+  :block/updated-at 1663430408332}
  {:block/name "serialisation anomalies",
   :block/created-at 1659187936261,
   :block/updated-at 1659187936261}
