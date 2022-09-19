@@ -429,6 +429,9 @@
  {:block/name "favorites",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
+ {:block/name "forget the pecking order at work",
+  :block/created-at 1663442162089,
+  :block/updated-at 1663443018289}
  {:block/name "functional programming",
   :block/created-at 1661793905564,
   :block/updated-at 1661793905564}
@@ -662,6 +665,9 @@
  {:block/name "manuel pais",
   :block/created-at 1662814638865,
   :block/updated-at 1662814638865}
+ {:block/name "margaret heffernan",
+  :block/created-at 1663442979771,
+  :block/updated-at 1663442979771}
  {:block/name "mark heath",
   :block/created-at 1659337921906,
   :block/updated-at 1659337921906}
@@ -999,7 +1005,10 @@
   :block/updated-at 1662976261513}
  {:block/name "sep 17th, 2022",
   :block/created-at 1663428620569,
-  :block/updated-at 1663428620569}
+  :block/updated-at 1663443029768}
+ {:block/name "sep 18th, 2022",
+  :block/created-at 1663455941486,
+  :block/updated-at 1663489868963}
  {:block/name "sep 1st, 2022",
   :block/created-at 1661987504044,
   :block/updated-at 1662062800230}
@@ -1030,6 +1039,9 @@
  {:block/name "soap",
   :block/created-at 1659423454868,
   :block/updated-at 1659423454868}
+ {:block/name "social capital",
+  :block/created-at 1663442812114,
+  :block/updated-at 1663442812114}
  {:block/name "software",
   :block/created-at 1658087168552,
   :block/updated-at 1658087168552}
@@ -1088,6 +1100,9 @@
  {:block/name "technology",
   :block/created-at 1660592067648,
   :block/updated-at 1660592067648}
+ {:block/name "tedwomen",
+  :block/created-at 1663442973977,
+  :block/updated-at 1663442973977}
  {:block/name "temporal coupling",
   :block/created-at 1659423252420,
   :block/updated-at 1659423252420}
@@ -1154,6 +1169,9 @@
  {:block/name "topic",
   :block/created-at 1658086982835,
   :block/updated-at 1658087717757}
+ {:block/name "tuckman's team development stages",
+  :block/created-at 1663442942262,
+  :block/updated-at 1663442942262}
  {:block/name
   "value stream mapping is dead. long live value stream mapping!",
   :block/created-at 1660467631581,

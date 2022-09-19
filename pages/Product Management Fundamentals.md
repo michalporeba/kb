@@ -1,0 +1,4 @@
+- About
+	- A [[Video Course]] published on [[Pluralsight]] on [[2022]]
+	- By [[Matthew Pizzi]]
+	- Topics: [[Product Management]]
