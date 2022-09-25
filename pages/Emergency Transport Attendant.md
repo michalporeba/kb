@@ -7,6 +7,7 @@
 	- [[JRCALC]]
 	- [[Ambulance Care Essentials]] (ACE) - second edition
 	- [[Ambulance Care Practice]]  (ACP) - second edition
+	- [[Anatomy and Physiology for Paramedics]] (APP)
 -
 - Syllabus
 	- [[ETA Module 1]] - [[Medical Emergencies]]
@@ -53,12 +54,12 @@
 		- Major Incidents (ACP 125-134)
 	- [[ETA Module 4]] - [[ECG]]
 		- 3 Lead ECG acquisition (ACP 232-233)
-		- Physical Heart Function & View of the Heart
+		- [[Physical Heart Function]] and [[View of the Heart]]
 		- Cardiac Cycle (ACP 221-222)
 		- Cardiac Conduction Pathways (ACP 218-219)
 		- Cardiac Cycle and ECG Complex (ACP 223)
 		- Heart Rate Control
-		- Cardiac Output & Cardiogenic Shock
+		- [[Cardiac Output]] & Cardiogenic Shock
 		- What is ECG - Paper Squares and Time  (ACP 231)
 		- ECG Interpretation and Five Basic Steps
 		- Normal Sinus Rhythm (NSR) and Five Steps to Interpretation
