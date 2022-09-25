@@ -677,6 +677,9 @@
  {:block/name "martin fowler",
   :block/created-at 1658129455477,
   :block/updated-at 1658129455477}
+ {:block/name "matthew pizzi",
+  :block/created-at 1663598733845,
+  :block/updated-at 1663598733845}
  {:block/name "matthew renze",
   :block/created-at 1658129531608,
   :block/updated-at 1658129531608}
@@ -907,6 +910,12 @@
   "prioritizing tasks and managing time for greater productivity",
   :block/created-at 1658087995632,
   :block/updated-at 1658088119559}
+ {:block/name "product management",
+  :block/created-at 1663598747361,
+  :block/updated-at 1663598747361}
+ {:block/name "product management fundamentals",
+  :block/created-at 1663598680349,
+  :block/updated-at 1663598747362}
  {:block/name "productivity",
   :block/created-at 1658088081349,
   :block/updated-at 1658088081349}
@@ -1008,10 +1017,16 @@
   :block/updated-at 1663443029768}
  {:block/name "sep 18th, 2022",
   :block/created-at 1663455941486,
-  :block/updated-at 1663489868963}
+  :block/updated-at 1663598680349}
+ {:block/name "sep 19th, 2022",
+  :block/created-at 1663598493287,
+  :block/updated-at 1663598493287}
  {:block/name "sep 1st, 2022",
   :block/created-at 1661987504044,
   :block/updated-at 1662062800230}
+ {:block/name "sep 20th, 2022",
+  :block/created-at 1663628435685,
+  :block/updated-at 1663628435685}
  {:block/name "sep 2nd, 2022",
   :block/created-at 1662073839414,
   :block/updated-at 1662149651701}

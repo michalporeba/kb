@@ -1,0 +1,69 @@
+- About
+	- A [[Course]] by [[St John Ambulance Cymru]]
+	- Topics: [[First Aid]] [[Medical Emergencies]] [[Pregnancy]] [[Child Birth]] [[Trauma]] [[ECG]]
+-
+- Sources
+	- [[ETA Student Handbook]] (ESH)
+	- [[JRCALC]]
+	- [[Ambulance Care Essentials]] (ACE) - second edition
+	- [[Ambulance Care Practice]]  (ACP) - second edition
+-
+- Syllabus
+	- [[ETA Module 1]] - [[Medical Emergencies]]
+		- Clinical governance - (ACP 47-48)
+		- Patient Assessment - Primary Survey,  Secondary Survey (ACP 141-147)
+		- Respiratory Emergencies (ACP 200-201, 204-207)
+		- Asthma (ACP 208-212)
+		- COPD (ACP 213-214)
+		- Pneumonia (ACP 2014)
+		- Pleurisy and Pleural Effusion
+		- Pulmonary Embolism (ACP 215)
+		- Cardiac Emergencies (ACP 239 - 241)
+		- Aortic Aneurysm (ACP 244-246)
+		- Sickle Cell Crisis (ACP 247-249)
+		- Neurological Emergencies (ACP 251-262)
+		- Altered Level of Consciousness (ACP 251-262)
+		- TIA & Stroke (ACP 265-266)
+		- Convulsions (ACP 263-264)
+		- Anaphylaxis and Adrenaline 1:1000 (ACP 279-283)
+		- Diabetes and Glucagon (ACP 288-293)
+		- Overdose, Poisoning and Naloxone (ACP 295-299)
+		- Abdominal Assessment (ACP 300-304)
+		- Appendicitis (ACP 279-282)
+	- [[ETA Module 2]] - [[Pregnancy]] and [[Child Birth]]
+		- Normal Pregnancy Overview (ACP 399-401)
+		- Complications in Pregnancy (ACP 402-404)
+		- Miscarriage (ACP 405)
+		- Pre-Eclampsia (ACP 405)
+		- Trauma in Pregnancy (ACP 406)
+		- Emergency Child Birth (ACP 407-415)
+	- [[ETA Module 3]] - [[Trauma]]
+		- Trauma - Phases and Mechanism (ACP 311-317)
+		- Pain (ACP 461-462)
+		- Trauma Assessment - Primary Survey, Secondary Survey (ACP 327-330)
+		- Shock (ACP 246-247)
+		- Head Injuries (ACP 330-335)
+		- Spinal Injuries (ACP 336-337)
+		- Chest Injuries and Russel Chest Seal (ACP 337-340)
+		- Abdominal Injuries (ACP 340-341)
+		- Pelvis Injury and Pelvic Splints (ACP 342, 361-363)
+		- Limb Injuries and Fractures (ACP 364-365)
+		- Fractured Femur and Traction Splints (ACP 364-365)
+		- Counter-Terrorism (ACP 55-56)
+		- Major Incidents (ACP 125-134)
+	- [[ETA Module 4]] - [[ECG]]
+		- 3 Lead ECG acquisition (ACP 232-233)
+		- Physical Heart Function & View of the Heart
+		- Cardiac Cycle (ACP 221-222)
+		- Cardiac Conduction Pathways (ACP 218-219)
+		- Cardiac Cycle and ECG Complex (ACP 223)
+		- Heart Rate Control
+		- Cardiac Output & Cardiogenic Shock
+		- What is ECG - Paper Squares and Time  (ACP 231)
+		- ECG Interpretation and Five Basic Steps
+		- Normal Sinus Rhythm (NSR) and Five Steps to Interpretation
+		- Cardiac Arrest Rhythms (ACP 475-476)
+		- Arrhythmias - Rate and Rhythm Problems
+		- 12 Lead ECG Acquisition (ACP 233-235)
+		-
+	-
