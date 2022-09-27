@@ -79,12 +79,27 @@
  {:block/name "amazon sqs",
   :block/created-at 1659423478553,
   :block/updated-at 1659423478553}
+ {:block/name "ambulance care",
+  :block/created-at 1664106996593,
+  :block/updated-at 1664106996593}
+ {:block/name "ambulance care essentials",
+  :block/created-at 1664106898351,
+  :block/updated-at 1664107034192}
+ {:block/name "ambulance care practice",
+  :block/created-at 1664106913284,
+  :block/updated-at 1664107135498}
  {:block/name "amgp",
   :block/created-at 1659423467290,
   :block/updated-at 1659423467290}
  {:block/name "ami levin",
   :block/created-at 1659187977475,
   :block/updated-at 1659187977475}
+ {:block/name "anastomoses",
+  :block/created-at 1664110143897,
+  :block/updated-at 1664110143897}
+ {:block/name "anatomy and physiology for paramedics",
+  :block/created-at 1664109411085,
+  :block/updated-at 1664109431485}
  {:block/name "andrew tridgell",
   :block/created-at 1659339749768,
   :block/updated-at 1659339749768}
@@ -220,6 +235,9 @@
  {:block/name "card",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
+ {:block/name "cardiac output",
+  :block/created-at 1664110278205,
+  :block/updated-at 1664110278205}
  {:block/name "career",
   :block/created-at 1660592067650,
   :block/updated-at 1660592067650}
@@ -229,12 +247,21 @@
  {:block/name "cassandra 3 for developers",
   :block/created-at 1661626157854,
   :block/updated-at 1661626157854}
+ {:block/name "catherine vaughan",
+  :block/created-at 1664202117211,
+  :block/updated-at 1664202117211}
+ {:block/name "child birth",
+  :block/created-at 1664107685019,
+  :block/updated-at 1664107685019}
  {:block/name "civil service",
   :block/created-at 1662556391622,
   :block/updated-at 1662556391622}
  {:block/name "civil service learning",
   :block/created-at 1657794702094,
   :block/updated-at 1657794702094}
+ {:block/name "class professional publishing",
+  :block/created-at 1664106989882,
+  :block/updated-at 1664106989882}
  {:block/name "clean architecture",
   :block/created-at 1658129356244,
   :block/updated-at 1658129438417}
@@ -271,6 +298,9 @@
  {:block/name "convolutional neural networks",
   :block/created-at 1662060119641,
   :block/updated-at 1662060119641}
+ {:block/name "course",
+  :block/created-at 1664106852416,
+  :block/updated-at 1664106852416}
  {:block/name "cpd",
   :block/created-at 1659255302193,
   :block/updated-at 1659255302193}
@@ -380,6 +410,9 @@
  {:block/name "dwight jon zimmerman",
   :block/created-at 1660067087229,
   :block/updated-at 1660067087229}
+ {:block/name "ecg",
+  :block/created-at 1664107707136,
+  :block/updated-at 1664107707136}
  {:block/name "edsger w dijkstra",
   :block/created-at 1660554617819,
   :block/updated-at 1660554617819}
@@ -389,6 +422,9 @@
  {:block/name "eliyahu m. goldratt",
   :block/created-at 1659461261508,
   :block/updated-at 1659461261508}
+ {:block/name "emergency transport attendant",
+  :block/created-at 1664106834485,
+  :block/updated-at 1664110293258}
  {:block/name "emotional intelligence",
   :block/created-at 1662975547404,
   :block/updated-at 1662975547404}
@@ -410,6 +446,21 @@
  {:block/name "estimation",
   :block/created-at 1659043409444,
   :block/updated-at 1659043409444}
+ {:block/name "eta module 1",
+  :block/created-at 1664107227183,
+  :block/updated-at 1664107227183}
+ {:block/name "eta module 2",
+  :block/created-at 1664107650834,
+  :block/updated-at 1664107650834}
+ {:block/name "eta module 3",
+  :block/created-at 1664107812024,
+  :block/updated-at 1664107812024}
+ {:block/name "eta module 4",
+  :block/created-at 1664108068193,
+  :block/updated-at 1664108068193}
+ {:block/name "eta student handbook",
+  :block/created-at 1664108330805,
+  :block/updated-at 1664108330805}
  {:block/name "event storming",
   :block/created-at 1659422905833,
   :block/updated-at 1659422905833}
@@ -429,6 +480,9 @@
  {:block/name "favorites",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
+ {:block/name "first aid",
+  :block/created-at 1664106870863,
+  :block/updated-at 1664106870863}
  {:block/name "forget the pecking order at work",
   :block/created-at 1663442162089,
   :block/updated-at 1663443018289}
@@ -472,6 +526,9 @@
  {:block/name "haskell",
   :block/created-at 1659339228743,
   :block/updated-at 1659339228743}
+ {:block/name "heart rate",
+  :block/created-at 1664110390002,
+  :block/updated-at 1664110390002}
  {:block/name "historical model",
   :block/created-at 1659423023748,
   :block/updated-at 1659423023748}
@@ -562,6 +619,9 @@
  {:block/name "jose manuel gomez-perez",
   :block/created-at 1662658014660,
   :block/updated-at 1662658014660}
+ {:block/name "jrcalc",
+  :block/created-at 1664106891812,
+  :block/updated-at 1664106891812}
  {:block/name "jul 13th, 2022",
   :block/created-at 1657737025256,
   :block/updated-at 1658088017985}
@@ -622,6 +682,9 @@
  {:block/name "knowledge graphs",
   :block/created-at 1662658143664,
   :block/updated-at 1662658143664}
+ {:block/name "kris lethbridge",
+  :block/created-at 1664107034191,
+  :block/updated-at 1664107034191}
  {:block/name "later",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
@@ -689,6 +752,9 @@
  {:block/name "md5",
   :block/created-at 1659339505860,
   :block/updated-at 1659339505860}
+ {:block/name "medical emergencies",
+  :block/created-at 1664107661763,
+  :block/updated-at 1664107661763}
  {:block/name "melvin e. conway",
   :block/created-at 1659422557572,
   :block/updated-at 1659422693046}
@@ -879,6 +945,9 @@
  {:block/name "peter deutch",
   :block/created-at 1659303595622,
   :block/updated-at 1659303595622}
+ {:block/name "physical heart function",
+  :block/created-at 1664109488386,
+  :block/updated-at 1664109488386}
  {:block/name "plularsight",
   :block/created-at 1659303436821,
   :block/updated-at 1659303436821}
@@ -897,6 +966,9 @@
  {:block/name "pratheerth padman",
   :block/created-at 1661942060382,
   :block/updated-at 1661942060382}
+ {:block/name "pregnancy",
+  :block/created-at 1664107692338,
+  :block/updated-at 1664107692338}
  {:block/name "prentice hall",
   :block/created-at 1660555449166,
   :block/updated-at 1660555449166}
@@ -970,6 +1042,9 @@
  {:block/name "reverse conway manoeuvre",
   :block/created-at 1659423143160,
   :block/updated-at 1659423143160}
+ {:block/name "richard pilbery",
+  :block/created-at 1664107034192,
+  :block/updated-at 1664107034192}
  {:block/name "robert c. martin",
   :block/created-at 1658129438415,
   :block/updated-at 1658129438415}
@@ -1027,6 +1102,12 @@
  {:block/name "sep 20th, 2022",
   :block/created-at 1663628435685,
   :block/updated-at 1663628435685}
+ {:block/name "sep 25th, 2022",
+  :block/created-at 1664106825171,
+  :block/updated-at 1664110887453}
+ {:block/name "sep 26th, 2022",
+  :block/created-at 1664153255951,
+  :block/updated-at 1664202117212}
  {:block/name "sep 2nd, 2022",
   :block/created-at 1662073839414,
   :block/updated-at 1662149651701}
@@ -1081,9 +1162,18 @@
  {:block/name "sql",
   :block/created-at 1659187985701,
   :block/updated-at 1659187985701}
+ {:block/name "st john ambulance cymru",
+  :block/created-at 1664106862412,
+  :block/updated-at 1664106862412}
  {:block/name "st. martin's publishing group",
   :block/created-at 1659043597118,
   :block/updated-at 1659043597118}
+ {:block/name "starlings law",
+  :block/created-at 1664110615550,
+  :block/updated-at 1664110615550}
+ {:block/name "stephen dolphin",
+  :block/created-at 1664109431484,
+  :block/updated-at 1664109431484}
  {:block/name "steve pereira",
   :block/created-at 1660591604269,
   :block/updated-at 1660591604269}
@@ -1099,6 +1189,9 @@
  {:block/name "stringbuilder internals",
   :block/created-at 1662148435514,
   :block/updated-at 1662148456193}
+ {:block/name "stroke volume",
+  :block/created-at 1664110384608,
+  :block/updated-at 1664110384608}
  {:block/name "synchronous protocol",
   :block/created-at 1659423409621,
   :block/updated-at 1659423409621}
@@ -1184,6 +1277,9 @@
  {:block/name "topic",
   :block/created-at 1658086982835,
   :block/updated-at 1658087717757}
+ {:block/name "trauma",
+  :block/created-at 1664107707137,
+  :block/updated-at 1664107707137}
  {:block/name "tuckman's team development stages",
   :block/created-at 1663442942262,
   :block/updated-at 1663442942262}
@@ -1200,6 +1296,9 @@
  {:block/name "video course",
   :block/created-at 1658087185835,
   :block/updated-at 1658087185835}
+ {:block/name "view of the heart",
+  :block/created-at 1664109499325,
+  :block/updated-at 1664109499325}
  {:block/name "vladimir khorikov",
   :block/created-at 1659336314662,
   :block/updated-at 1659336314662}

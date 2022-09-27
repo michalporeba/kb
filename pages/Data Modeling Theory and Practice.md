@@ -1,0 +1,5 @@
+- About
+	- A [[Book]] published by [[Technics Publications]] in [[2007]]
+	- By [[Graeme Simsion]]
+	- Topics: [[Data]] [[Data Modelling]] [[Research]]
+-
