@@ -1,6 +1,9 @@
 [{:block/name "1936",
   :block/created-at 1659043745978,
   :block/updated-at 1659130704574}
+ {:block/name "1968",
+  :block/created-at 1664567382437,
+  :block/updated-at 1664567382437}
  {:block/name "1987",
   :block/created-at 1659460123761,
   :block/updated-at 1659460123761}
@@ -10,6 +13,9 @@
  {:block/name "2002",
   :block/created-at 1660555449165,
   :block/updated-at 1660555449165}
+ {:block/name "2007",
+  :block/created-at 1664304360951,
+  :block/updated-at 1664304360951}
  {:block/name "2012",
   :block/created-at 1659338256018,
   :block/updated-at 1659338256018}
@@ -334,6 +340,12 @@
  {:block/name "data",
   :block/created-at 1657737169798,
   :block/updated-at 1657737169798}
+ {:block/name "data modeling theory and practice",
+  :block/created-at 1664304316956,
+  :block/updated-at 1664304381414}
+ {:block/name "data modelling",
+  :block/created-at 1664304381412,
+  :block/updated-at 1664304381412}
  {:block/name "data structures",
   :block/created-at 1659338279094,
   :block/updated-at 1659338279094}
@@ -511,12 +523,18 @@
  {:block/name "google firebase_ the big picture",
   :block/created-at 1660321724687,
   :block/updated-at 1660321760381}
+ {:block/name "graeme simsion",
+  :block/created-at 1664304367862,
+  :block/updated-at 1664304367862}
  {:block/name "graph databases",
   :block/created-at 1662658143663,
   :block/updated-at 1662658143663}
  {:block/name "gregor hohpe",
   :block/created-at 1658129412258,
   :block/updated-at 1658129412258}
+ {:block/name "group intelligence",
+  :block/created-at 1664567902223,
+  :block/updated-at 1664567902223}
  {:block/name "grpc",
   :block/created-at 1659423458019,
   :block/updated-at 1659423458019}
@@ -673,6 +691,9 @@
  {:block/name "kent beck",
   :block/created-at 1658129650598,
   :block/updated-at 1658129650598}
+ {:block/name "kevlin henney",
+  :block/created-at 1664566794129,
+  :block/updated-at 1664566794129}
  {:block/name "key learning",
   :block/created-at 1658159230912,
   :block/updated-at 1658159230912}
@@ -782,6 +803,9 @@
  {:block/name "naïve bayes",
   :block/created-at 1661944475013,
   :block/updated-at 1661944475013}
+ {:block/name "neil gaiman",
+  :block/created-at 1664567448179,
+  :block/updated-at 1664567448179}
  {:block/name "neural network",
   :block/created-at 1662060089999,
   :block/updated-at 1662060089999}
@@ -930,6 +954,9 @@
  {:block/name "object oriented programming",
   :block/created-at 1661793901096,
   :block/updated-at 1661793901096}
+ {:block/name "oct 1st, 2022",
+  :block/created-at 1664580755289,
+  :block/updated-at 1664580755289}
  {:block/name "parkinson's law",
   :block/created-at 1659460733160,
   :block/updated-at 1659460733160}
@@ -1036,6 +1063,9 @@
  {:block/name "remote-first",
   :block/created-at 1662815313540,
   :block/updated-at 1662815313540}
+ {:block/name "research",
+  :block/created-at 1664304381411,
+  :block/updated-at 1664304381411}
  {:block/name "rest",
   :block/created-at 1659423460308,
   :block/updated-at 1659423460308}
@@ -1108,9 +1138,15 @@
  {:block/name "sep 26th, 2022",
   :block/created-at 1664153255951,
   :block/updated-at 1664202117212}
+ {:block/name "sep 27th, 2022",
+  :block/created-at 1664304300226,
+  :block/updated-at 1664304316957}
  {:block/name "sep 2nd, 2022",
   :block/created-at 1662073839414,
   :block/updated-at 1662149651701}
+ {:block/name "sep 30th, 2022",
+  :block/created-at 1664566792881,
+  :block/updated-at 1664568057492}
  {:block/name "sep 3rd, 2022",
   :block/created-at 1662159957430,
   :block/updated-at 1662219140371}
@@ -1205,6 +1241,9 @@
  {:block/name "teamwork",
   :block/created-at 1659043151461,
   :block/updated-at 1659043151461}
+ {:block/name "technics publications",
+  :block/created-at 1664304344641,
+  :block/updated-at 1664304344641}
  {:block/name "technology",
   :block/created-at 1660592067648,
   :block/updated-at 1660592067648}

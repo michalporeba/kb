@@ -26,7 +26,7 @@
 		- Altered Level of Consciousness (ACP 251-262)
 		- TIA & Stroke (ACP 265-266)
 		- Convulsions (ACP 263-264)
-		- Anaphylaxis and Adrenaline 1:1000 (ACP 279-283)
+		- [[Anaphylaxis]] and [[Adrenaline 1:1000]] (ACP 279-283)
 		- Diabetes and Glucagon (ACP 288-293)
 		- Overdose, Poisoning and Naloxone (ACP 295-299)
 		- Abdominal Assessment (ACP 300-304)
