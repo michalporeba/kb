@@ -1,0 +1,1 @@
+- Acute, rapid onset [[Allergic Reaction]]

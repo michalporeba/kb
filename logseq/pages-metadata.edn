@@ -61,6 +61,9 @@
  {:block/name "additive structures",
   :block/created-at 1659337697423,
   :block/updated-at 1659337697423}
+ {:block/name "adrenaline 1_1000",
+  :block/created-at 1664647781717,
+  :block/updated-at 1664647781717}
  {:block/name "agile",
   :block/created-at 1658128800589,
   :block/updated-at 1658128800589}
@@ -82,6 +85,9 @@
  {:block/name "algorithms and data structures - part 2",
   :block/created-at 1660421221184,
   :block/updated-at 1660421299690}
+ {:block/name "allergic reaction",
+  :block/created-at 1664982699650,
+  :block/updated-at 1664982699650}
  {:block/name "amazon sqs",
   :block/created-at 1659423478553,
   :block/updated-at 1659423478553}
@@ -100,6 +106,9 @@
  {:block/name "ami levin",
   :block/created-at 1659187977475,
   :block/updated-at 1659187977475}
+ {:block/name "anaphylaxis",
+  :block/created-at 1664647774099,
+  :block/updated-at 1664982699651}
  {:block/name "anastomoses",
   :block/created-at 1664110143897,
   :block/updated-at 1664110143897}
@@ -333,7 +342,7 @@
   :block/updated-at 1659043770428}
  {:block/name "dan appleman",
   :block/created-at 1658088192871,
-  :block/updated-at 1658088192871}
+  :block/updated-at 1664982840427}
  {:block/name "dan north",
   :block/created-at 1659458926388,
   :block/updated-at 1659459046088}
@@ -436,7 +445,7 @@
   :block/updated-at 1659461261508}
  {:block/name "emergency transport attendant",
   :block/created-at 1664106834485,
-  :block/updated-at 1664110293258}
+  :block/updated-at 1664647781718}
  {:block/name "emotional intelligence",
   :block/created-at 1662975547404,
   :block/updated-at 1662975547404}
@@ -797,6 +806,9 @@
  {:block/name "miller's law",
   :block/created-at 1661793200653,
   :block/updated-at 1661794019896}
+ {:block/name "muraro, 2014",
+  :block/created-at 1664648215668,
+  :block/updated-at 1664648263585}
  {:block/name "mvc",
   :block/created-at 1659423742395,
   :block/updated-at 1659423742395}
@@ -818,6 +830,9 @@
  {:block/name "new page_ agile software development with scrum",
   :block/created-at 1660555407704,
   :block/updated-at 1660555407704}
+ {:block/name "new page_ anaphylaxis",
+  :block/created-at 1664647772479,
+  :block/updated-at 1664647772479}
  {:block/name "new page_ blended cour",
   :block/created-at 1662975466360,
   :block/updated-at 1662975466360}
@@ -954,9 +969,21 @@
  {:block/name "object oriented programming",
   :block/created-at 1661793901096,
   :block/updated-at 1661793901096}
+ {:block/name "oct 14th, 2022",
+  :block/created-at 1665753148664,
+  :block/updated-at 1665753148664}
  {:block/name "oct 1st, 2022",
   :block/created-at 1664580755289,
-  :block/updated-at 1664580755289}
+  :block/updated-at 1664982734816}
+ {:block/name "oct 2nd, 2022",
+  :block/created-at 1664665969056,
+  :block/updated-at 1664665969056}
+ {:block/name "oct 5th, 2022",
+  :block/created-at 1664965940931,
+  :block/updated-at 1664965940931}
+ {:block/name "oct 6th, 2022",
+  :block/created-at 1665015563744,
+  :block/updated-at 1665015563744}
  {:block/name "parkinson's law",
   :block/created-at 1659460733160,
   :block/updated-at 1659460733160}
@@ -1123,21 +1150,12 @@
  {:block/name "sep 18th, 2022",
   :block/created-at 1663455941486,
   :block/updated-at 1663598680349}
- {:block/name "sep 19th, 2022",
-  :block/created-at 1663598493287,
-  :block/updated-at 1663598493287}
  {:block/name "sep 1st, 2022",
   :block/created-at 1661987504044,
   :block/updated-at 1662062800230}
- {:block/name "sep 20th, 2022",
-  :block/created-at 1663628435685,
-  :block/updated-at 1663628435685}
  {:block/name "sep 25th, 2022",
   :block/created-at 1664106825171,
   :block/updated-at 1664110887453}
- {:block/name "sep 26th, 2022",
-  :block/created-at 1664153255951,
-  :block/updated-at 1664202117212}
  {:block/name "sep 27th, 2022",
   :block/created-at 1664304300226,
   :block/updated-at 1664304316957}
@@ -1171,6 +1189,9 @@
  {:block/name "soap",
   :block/created-at 1659423454868,
   :block/updated-at 1659423454868}
+ {:block/name "soar, 2008",
+  :block/created-at 1664648215667,
+  :block/updated-at 1664648215667}
  {:block/name "social capital",
   :block/created-at 1663442812114,
   :block/updated-at 1663442812114}
