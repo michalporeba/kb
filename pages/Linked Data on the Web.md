@@ -1,0 +1,4 @@
+- About
+	- A paper from the 17th International World Wide Web Conference Beijing, China, April 22, [[2008]]
+	- By Christian Bizer, Tom Heath, Kingsley Idehen, Tim Berners-Lee
+	- https://eprints.soton.ac.uk/271286/1/paper00.pdf
