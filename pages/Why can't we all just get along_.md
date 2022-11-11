@@ -1,0 +1,7 @@
+- About
+	- A [[Blog Post]] published on [[emilywebber.co.uk]] in [[2022]]
+	- By [[Emily Webber]]
+	- Source https://emilywebber.co.uk/why-cant-we-all-just-get-along/
+	-
+-
+-

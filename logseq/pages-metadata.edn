@@ -13,9 +13,15 @@
  {:block/name "2002",
   :block/created-at 1660555449165,
   :block/updated-at 1660555449165}
+ {:block/name "2006",
+  :block/created-at 1667229234851,
+  :block/updated-at 1667229234851}
  {:block/name "2007",
   :block/created-at 1664304360951,
   :block/updated-at 1664304360951}
+ {:block/name "2008",
+  :block/created-at 1667229059440,
+  :block/updated-at 1667229059440}
  {:block/name "2012",
   :block/created-at 1659338256018,
   :block/updated-at 1659338256018}
@@ -446,6 +452,12 @@
  {:block/name "emergency transport attendant",
   :block/created-at 1664106834485,
   :block/updated-at 1664647781718}
+ {:block/name "emily webber",
+  :block/created-at 1668176002111,
+  :block/updated-at 1668176002111}
+ {:block/name "emilywebber.co.uk",
+  :block/created-at 1668176046887,
+  :block/updated-at 1668176046887}
  {:block/name "emotional intelligence",
   :block/created-at 1662975547404,
   :block/updated-at 1662975547404}
@@ -733,9 +745,15 @@
  {:block/name "linear regression",
   :block/created-at 1661944451707,
   :block/updated-at 1661944451707}
+ {:block/name "linke data",
+  :block/created-at 1667229133075,
+  :block/updated-at 1667229133075}
  {:block/name "linked data",
   :block/created-at 1658086768622,
   :block/updated-at 1658087621567}
+ {:block/name "linked data on the web",
+  :block/created-at 1667229002809,
+  :block/updated-at 1667229446659}
  {:block/name "linked data_ structured data on the web",
   :block/created-at 1658086705034,
   :block/updated-at 1658608503183}
@@ -903,6 +921,12 @@
   "new page_ legacy code, oop vs functional programming & more",
   :block/created-at 1661792774715,
   :block/updated-at 1661792774715}
+ {:block/name "new page_ linked data on",
+  :block/created-at 1667228990547,
+  :block/updated-at 1667228990547}
+ {:block/name "new page_ linked data on t",
+  :block/created-at 1667228990427,
+  :block/updated-at 1667228990427}
  {:block/name "new page_ peopleware_ productive projects and teams",
   :block/created-at 1659460024832,
   :block/updated-at 1659460024832}
@@ -963,33 +987,24 @@
  {:block/name "nosql",
   :block/created-at 1658608295964,
   :block/updated-at 1658608295964}
+ {:block/name "nov 10th, 2022",
+  :block/created-at 1668073203661,
+  :block/updated-at 1668076842593}
+ {:block/name "nov 11th, 2022",
+  :block/created-at 1668175970642,
+  :block/updated-at 1668176002112}
  {:block/name "now",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
  {:block/name "object oriented programming",
   :block/created-at 1661793901096,
   :block/updated-at 1661793901096}
- {:block/name "oct 14th, 2022",
-  :block/created-at 1665753148664,
-  :block/updated-at 1665753148664}
  {:block/name "oct 1st, 2022",
   :block/created-at 1664580755289,
   :block/updated-at 1664982734816}
- {:block/name "oct 26th, 2022",
-  :block/created-at 1666773727607,
-  :block/updated-at 1666773727607}
- {:block/name "oct 27th, 2022",
-  :block/created-at 1666895172030,
-  :block/updated-at 1666895172030}
- {:block/name "oct 2nd, 2022",
-  :block/created-at 1664665969056,
-  :block/updated-at 1664665969056}
- {:block/name "oct 5th, 2022",
-  :block/created-at 1664965940931,
-  :block/updated-at 1664965940931}
- {:block/name "oct 6th, 2022",
-  :block/created-at 1665015563744,
-  :block/updated-at 1665015563744}
+ {:block/name "oct 31st, 2022",
+  :block/created-at 1667228955591,
+  :block/updated-at 1667229365582}
  {:block/name "parkinson's law",
   :block/created-at 1659460733160,
   :block/updated-at 1659460733160}
@@ -1378,6 +1393,9 @@
   "war is peace, freedom is slavery, ignorance is strength, scrum is agile",
   :block/created-at 1660555213059,
   :block/updated-at 1660555213059}
+ {:block/name "why can't we all just get along_",
+  :block/created-at 1668176002112,
+  :block/updated-at 1668176046888}
  {:block/name "working effectively with legacy code",
   :block/created-at 1661793550154,
   :block/updated-at 1661793550154}
