@@ -85,6 +85,9 @@
  {:block/name "alex shultz",
   :block/created-at 1662059342180,
   :block/updated-at 1662059342180}
+ {:block/name "alexey tregubov",
+  :block/created-at 1668185214955,
+  :block/updated-at 1668185214955}
  {:block/name "algorithms and data structures - part 1",
   :block/created-at 1660066981831,
   :block/updated-at 1660421295556}
@@ -220,6 +223,9 @@
  {:block/name "b",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
+ {:block/name "barry boehm",
+  :block/created-at 1668185226632,
+  :block/updated-at 1668185226632}
  {:block/name "becoming a better listener",
   :block/created-at 1660134275306,
   :block/updated-at 1660134411649}
@@ -238,6 +244,9 @@
  {:block/name "bounded context",
   :block/created-at 1659422980889,
   :block/updated-at 1659422980889}
+ {:block/name "broken-comb-shaped",
+  :block/created-at 1668185347486,
+  :block/updated-at 1668185347486}
  {:block/name "building evolutionary architecture",
   :block/created-at 1658129306470,
   :block/updated-at 1658129333045}
@@ -385,6 +394,9 @@
  {:block/name "dean motter",
   :block/created-at 1660067091297,
   :block/updated-at 1660067091297}
+ {:block/name "dec 14th, 2022",
+  :block/created-at 1671016536816,
+  :block/updated-at 1671016536816}
  {:block/name "decision trees",
   :block/created-at 1661944475012,
   :block/updated-at 1661944475012}
@@ -604,6 +616,10 @@
  {:block/name "icagile (icp-asd)_ evolving architecture and design",
   :block/created-at 1658128659291,
   :block/updated-at 1658129633987}
+ {:block/name
+  "impact of task switching and work interruptions on software development processes",
+  :block/created-at 1668185175453,
+  :block/updated-at 1668185238372}
  {:block/name "in team decision making",
   :block/created-at 1662558797854,
   :block/updated-at 1662558819074}
@@ -652,6 +668,9 @@
  {:block/name "jo harder",
   :block/created-at 1659043133591,
   :block/updated-at 1659043133591}
+ {:block/name "jo lane",
+  :block/created-at 1668185238369,
+  :block/updated-at 1668185238369}
  {:block/name "john little",
   :block/created-at 1659460384121,
   :block/updated-at 1659460384121}
@@ -830,6 +849,9 @@
  {:block/name "mvc",
   :block/created-at 1659423742395,
   :block/updated-at 1659423742395}
+ {:block/name "natalia rodchenko",
+  :block/created-at 1668185233155,
+  :block/updated-at 1668185233155}
  {:block/name "naïve bayes",
   :block/created-at 1661944475013,
   :block/updated-at 1661944475013}
@@ -992,7 +1014,13 @@
   :block/updated-at 1668076842593}
  {:block/name "nov 11th, 2022",
   :block/created-at 1668175970642,
-  :block/updated-at 1668176002112}
+  :block/updated-at 1668185587497}
+ {:block/name "nov 12th, 2022",
+  :block/created-at 1668211814257,
+  :block/updated-at 1668211814257}
+ {:block/name "nov 13th, 2022",
+  :block/created-at 1668298207723,
+  :block/updated-at 1668298207723}
  {:block/name "now",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
@@ -1005,6 +1033,9 @@
  {:block/name "oct 31st, 2022",
   :block/created-at 1667228955591,
   :block/updated-at 1667229365582}
+ {:block/name "paper",
+  :block/created-at 1668185189384,
+  :block/updated-at 1668185189384}
  {:block/name "parkinson's law",
   :block/created-at 1659460733160,
   :block/updated-at 1659460733160}
@@ -1023,6 +1054,9 @@
  {:block/name "physical heart function",
   :block/created-at 1664109488386,
   :block/updated-at 1664109488386}
+ {:block/name "pi-shaped",
+  :block/created-at 1668185335925,
+  :block/updated-at 1668185335925}
  {:block/name "plularsight",
   :block/created-at 1659303436821,
   :block/updated-at 1659303436821}
@@ -1273,6 +1307,9 @@
  {:block/name "synchronous protocol",
   :block/created-at 1659423409621,
   :block/updated-at 1659423409621}
+ {:block/name "t-shaped",
+  :block/created-at 1668185335925,
+  :block/updated-at 1668185335925}
  {:block/name "team topologies",
   :block/created-at 1661793613292,
   :block/updated-at 1661793613292}
@@ -1395,7 +1432,7 @@
   :block/updated-at 1660555213059}
  {:block/name "why can't we all just get along_",
   :block/created-at 1668176002112,
-  :block/updated-at 1668176046888}
+  :block/updated-at 1668184800135}
  {:block/name "working effectively with legacy code",
   :block/created-at 1661793550154,
   :block/updated-at 1661793550154}
