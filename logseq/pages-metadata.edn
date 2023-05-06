@@ -352,6 +352,9 @@
  {:block/name "culture of learning_ executive brief",
   :block/created-at 1659255095316,
   :block/updated-at 1659255307137}
+ {:block/name "cynefin framework",
+  :block/created-at 1671269293673,
+  :block/updated-at 1671269293673}
  {:block/name "dale carnegie",
   :block/created-at 1659043770428,
   :block/updated-at 1659043770428}
@@ -394,9 +397,9 @@
  {:block/name "dean motter",
   :block/created-at 1660067091297,
   :block/updated-at 1660067091297}
- {:block/name "dec 14th, 2022",
-  :block/created-at 1671016536816,
-  :block/updated-at 1671016536816}
+ {:block/name "dec 17th, 2022",
+  :block/created-at 1671268404984,
+  :block/updated-at 1671270807904}
  {:block/name "decision trees",
   :block/created-at 1661944475012,
   :block/updated-at 1661944475012}
@@ -650,6 +653,9 @@
  {:block/name "james gosling",
   :block/created-at 1659303611985,
   :block/updated-at 1659303611985}
+ {:block/name "jan 3rd, 2023",
+  :block/created-at 1672769719546,
+  :block/updated-at 1672769719546}
  {:block/name "janani ravi",
   :block/created-at 1662478624012,
   :block/updated-at 1662478624012}
@@ -707,9 +713,6 @@
  {:block/name "jul 28th, 2022",
   :block/created-at 1659042037878,
   :block/updated-at 1659042856607}
- {:block/name "jul 29th, 2022",
-  :block/created-at 1659058499360,
-  :block/updated-at 1659058499360}
  {:block/name "jul 30th, 2022",
   :block/created-at 1659138133324,
   :block/updated-at 1659204859744}
@@ -1015,12 +1018,6 @@
  {:block/name "nov 11th, 2022",
   :block/created-at 1668175970642,
   :block/updated-at 1668185587497}
- {:block/name "nov 12th, 2022",
-  :block/created-at 1668211814257,
-  :block/updated-at 1668211814257}
- {:block/name "nov 13th, 2022",
-  :block/created-at 1668298207723,
-  :block/updated-at 1668298207723}
  {:block/name "now",
   :block/created-at 1657737032303,
   :block/updated-at 1657737032303}
